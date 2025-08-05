@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2017/11-podcasts-i-follow/","title":"11+ Podcasts I Follow","tags":["podcasts","lists"],"created":"2017-08-08T11:50:54","updated":"2025-08-05T11:51:07-04:00"}
+{"dg-publish":true,"permalink":"/notes/2017/11-podcasts-i-follow/","title":"11+ Podcasts I Follow","tags":["podcasts","lists"],"created":"2017-08-08T11:50:54","updated":"2025-08-05T11:51:49-04:00"}
 ---
 
 
