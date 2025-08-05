@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2017/laying-it-out/","title":"Laying it Out","tags":["hexo","webdev","spark","file"],"created":"2017-06-30T11:38:42"}
+{"dg-publish":true,"permalink":"/notes/2017/laying-it-out/","title":"Laying it Out","tags":["hexo","webdev","spark","file"],"created":"2017-06-30T11:38:42","updated":"2025-08-05T11:58:09-04:00"}
 ---
 
 
