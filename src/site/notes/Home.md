@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"updated":"2025-08-05T15:37:00-04:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"updated":"2025-08-09T19:02:14-04:00"}
 ---
 
+## Welcome
 
-One more try at reviving this site
+Still getting my legs under me with this setup, hoping it'll be what I'm looking for soon enough.
 
 ## Starting Points
 
@@ -11,8 +12,20 @@ One more try at reviving this site
 
 ## All Posted Notes
 (newest to oldest)
+- [[notes/2025/Read and Read\|Read and Read]]
+- [[notes/2025/Hello There\|Hello There]]
+- [[notes/2022/Translating from My Head\|Translating from My Head]]
+- [[notes/2022/And Another Thing\|And Another Thing]]
+- [[notes/2022/Yes, Try Again\|Yes, Try Again]]
+- [[notes/2021/The Dark, and the Dark\|The Dark, and the Dark]]
+- [[notes/2021/Feeling Autumnal\|Feeling Autumnal]]
+- [[notes/2021/Not a Break, No Really\|Not a Break, No Really]]
 - [[notes/2021/Break. Fix. Repeat\|Break. Fix. Repeat]]
+- [[notes/2021/Testing is Important\|Testing is Important]]
+- [[notes/2021/Pick Up the Mic\|Pick Up the Mic]]
+- [[notes/2021/The First Vacation\|The First Vacation]]
 - [[notes/2021/And Here We Are\|And Here We Are]]
+- [[notes/2021/By the Third\|By the Third]]
 - [[notes/2021/Bloody Hell\|Bloody Hell]]
 - [[notes/2021/A Fine Mess\|A Fine Mess]]
 - [[notes/2018/Seeing Some Green Outside\|Seeing Some Green Outside]]
@@ -31,6 +44,16 @@ One more try at reviving this site
 { .block-language-dataview}
 ## All Reference Notes
 - [[reference/2025/Eleventy\|Eleventy]]
+- [[reference/2025/GitHub\|GitHub]]
+- [[reference/2025/Goodreads\|Goodreads]]
+- [[reference/2025/Obsidian\|Obsidian]]
+- [[reference/2025/Personal Knowledge Management\|Personal Knowledge Management]]
+- [[reference/2025/Roam\|Roam]]
+- [[reference/2025/spark\|spark]]
 - [[reference/2025/Static Site Generator\|Static Site Generator]]
+- [[reference/2025/StoryGraph\|StoryGraph]]
+- [[reference/2025/Zettelkasten\|Zettelkasten]]
+- [[reference/2025/PHP\|PHP]]
+- [[reference/2025/MySQL\|MySQL]]
 
 { .block-language-dataview}
