@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"updated":"2025-08-09T21:04:13-04:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"created":"2025-08-05T18:40:00","updated":"2025-08-09T21:09:33-04:00"}
 ---
 
 ## Time to Re-Re-Re-Restart the Process
