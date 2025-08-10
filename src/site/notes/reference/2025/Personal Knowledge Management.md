@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/2025/personal-knowledge-management/","title":"PKM","tags":["PKM","note-taking"],"created":"2025-08-03T15:03:12","updated":"2025-08-05T17:03:39-04:00"}
+{"dg-publish":true,"permalink":"/reference/2025/personal-knowledge-management/","title":"Personal Knowledge Management","tags":["PKM","note-taking"],"created":"2025-08-03T15:03:12","updated":"2025-08-09T20:39:02-04:00"}
 ---
 
 ## The OG

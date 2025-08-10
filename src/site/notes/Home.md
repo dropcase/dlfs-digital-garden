@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"updated":"2025-08-09T19:02:14-04:00"}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"updated":"2025-08-09T21:04:13-04:00"}
 ---
 
-## Welcome
+## Time to Re-Re-Re-Restart the Process
 
-Still getting my legs under me with this setup, hoping it'll be what I'm looking for soon enough.
+Scattered throughout this site, you'll find more than one starting point. Some from old copies of content, some while I was trying to get changed over to another platform, and some just because I wrote it and wanted to keep it. This is another one of those starting points.
+
+One day I'll pull a bunch of the ideas out of my [[reference/2025/Obsidian\|Obsidian]] vault and make them into notes here. Until that happens, it'll just be slowly piecing together the framework and foundation of the site to build from. I know that the [[About\|About]] page has some of it, and I'll try to connect more ideas together along the way.
 
 ## Starting Points
 
@@ -45,14 +47,15 @@ Still getting my legs under me with this setup, hoping it'll be what I'm looking
 - [[reference/2025/Eleventy\|Eleventy]]
 - [[reference/2025/GitHub\|GitHub]]
 - [[reference/2025/Goodreads\|Goodreads]]
+- [[reference/2025/MySQL\|MySQL]]
 - [[reference/2025/Obsidian\|Obsidian]]
 - [[reference/2025/Personal Knowledge Management\|Personal Knowledge Management]]
+- [[reference/2025/PHP\|PHP]]
 - [[reference/2025/Roam\|Roam]]
 - [[reference/2025/spark\|spark]]
 - [[reference/2025/Static Site Generator\|Static Site Generator]]
 - [[reference/2025/StoryGraph\|StoryGraph]]
+- [[reference/2025/Trakt\|Trakt]]
 - [[reference/2025/Zettelkasten\|Zettelkasten]]
-- [[reference/2025/PHP\|PHP]]
-- [[reference/2025/MySQL\|MySQL]]
 
 { .block-language-dataview}
