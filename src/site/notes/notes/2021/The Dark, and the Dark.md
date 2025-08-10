@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/the-dark-and-the-dark/","title":"The Dark, and the Dark","tags":["outdoors"],"created":"2021-11-23T11:38:42","updated":"2025-08-05T16:32:43-04:00"}
+{"title":"The Dark, and the Dark","description":"No good on either side of the day","date":"2021-11-23","prevPage":"[[Feeling Autumnal]]","nextPage":"[[Yes, Try Again]]","tags":["outdoors"],"dg-publish":true,"created":"2021-11-23T11:38:42","updated":"2025-08-05T16:32:43-04:00","permalink":"/notes/2021/the-dark-and-the-dark/","dgPassFrontmatter":true}
 ---
 
 

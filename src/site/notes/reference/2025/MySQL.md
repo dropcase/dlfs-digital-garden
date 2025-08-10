@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/2025/my-sql/","title":"MySQL","tags":["webdev","database"],"created":"2025-08-09 18:58:41","updated":"2025-08-09T19:02:14-04:00"}
+{"title":"MySQL","description":null,"date":"2025-08-09","tags":["webdev","database"],"dg-publish":true,"created":"2025-08-09 18:58:41","updated":"2025-08-09T19:02:14-04:00","permalink":"/reference/2025/my-sql/","dgPassFrontmatter":true}
 ---
 
 **Home**: [MySQL](https://www.mysql.com/)

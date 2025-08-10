@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2017/what-did-i-get-myself-into/","title":"What Did I Get Myself Into?","tags":["writing","status"],"created":"2017-08-02T11:38:42","updated":"2025-08-05T15:39:02-04:00"}
+{"title":"What Did I Get Myself Into?","description":null,"date":"2017-08-02","tags":["writing","status"],"dg-publish":true,"created":"2017-08-02T11:38:42","updated":"2025-08-05T15:39:02-04:00","permalink":"/notes/2017/what-did-i-get-myself-into/","dgPassFrontmatter":true}
 ---
 
 

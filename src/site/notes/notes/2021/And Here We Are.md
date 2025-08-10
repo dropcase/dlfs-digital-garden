@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/and-here-we-are/","title":"And Here We Are","tags":["status","outer-thoughts"],"created":"2021-06-19T11:38:42","updated":"2025-08-05T16:30:35-04:00"}
+{"title":"And Here We Are","description":"The first step is acknowledging the habit","date":"2021-06-19","tags":["status","outer-thoughts"],"dg-publish":true,"created":"2021-06-19T11:38:42","updated":"2025-08-09T22:18:52-04:00","permalink":"/notes/2021/and-here-we-are/","dgPassFrontmatter":true}
 ---
 
 

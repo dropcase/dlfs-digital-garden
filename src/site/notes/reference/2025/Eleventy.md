@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/2025/eleventy/","title":"Eleventy","tags":["webdev","SSG"],"created":"2025-08-03T15:57:42","updated":"2025-08-05T17:01:33-04:00"}
+{"title":"Eleventy","description":"a simpler static site generator","date":"2025-08-03","tags":["webdev","SSG"],"dg-publish":true,"created":"2025-08-03T15:57:42","updated":"2025-08-05T17:01:33-04:00","permalink":"/reference/2025/eleventy/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/break-fix-repeat/","title":"Break. Fix. Repeat.","tags":["Netlify","testing"],"created":"2021-08-20T11:38:42","updated":"2025-08-05T15:57:36-04:00"}
+{"title":"Break. Fix. Repeat.","description":"I'll learn it someday, really","date":"2021-08-20","prevPage":"[[Testing is Important]]","nextPage":"[[Not a Break, No Really]]","tags":["Netlify","testing"],"dg-publish":true,"created":"2021-08-20T11:38:42","updated":"2025-08-05T15:57:36-04:00","permalink":"/notes/2021/break-fix-repeat/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2022/yes-try-again/","title":"Yes, Try Again","tags":["perspective","covid","hobby-chasing"],"created":"2022-01-22T11:38:42","updated":"2025-08-09T20:23:49-04:00"}
+{"title":"Yes, Try Again","description":"We'll see if this year turns out different.","date":"2022-01-22","tags":["perspective","covid","hobby-chasing"],"dg-publish":true,"created":"2022-01-22T11:38:42","updated":"2025-08-09T20:23:49-04:00","permalink":"/notes/2022/yes-try-again/","dgPassFrontmatter":true}
 ---
 
 

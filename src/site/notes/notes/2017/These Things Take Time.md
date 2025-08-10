@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2017/these-things-take-time/","title":"These Things Take Time","tags":["writing","social","networks"],"created":"2017-06-27T11:38:42","updated":"2025-08-05T13:20:16-04:00"}
+{"title":"These Things Take Time","description":null,"date":"2017-06-27","prevPage":"[[In the Middle]]","nextPage":"[[Laying it Out]]","tags":["writing","social","networks"],"dg-publish":true,"created":"2017-06-27T11:38:42","updated":"2025-08-05T13:20:16-04:00","permalink":"/notes/2017/these-things-take-time/","dgPassFrontmatter":true}
 ---
 
 

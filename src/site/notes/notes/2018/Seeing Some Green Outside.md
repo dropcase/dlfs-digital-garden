@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2018/seeing-some-green-outside/","title":"Seeing Some Green Outside","tags":["nature","outside","weather"],"created":"2018-03-29T11:38:42","updated":"2025-08-05T15:35:17-04:00"}
+{"title":"Seeing Some Green Outside","description":null,"date":"2018-03-29","prevPage":"[[Digging Out of an Issue]]","nextPage":"[[A Fine Mess]]","tags":["nature","outside","weather"],"dg-publish":true,"created":"2018-03-29T11:38:42","updated":"2025-08-05T15:35:17-04:00","permalink":"/notes/2018/seeing-some-green-outside/","dgPassFrontmatter":true}
 ---
 
 

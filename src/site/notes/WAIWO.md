@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/waiwo/","title":"What Am I Working On?","tags":["updates","DL"],"created":"2025-08-04T18:40:48","updated":"2025-08-09T21:43:01-04:00"}
+{"title":"What Am I Working On?","description":"Originally just for self-reference, now also a way to share some of the things on my mental (and other) radar","date":"2025-08-09","tags":["updates","DL"],"dg-publish":true,"created":"2025-08-04T18:40:48","updated":"2025-08-09T21:43:01-04:00","permalink":"/waiwo/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/the-first-vacation/","title":"The First Vacation","tags":["family","travel"],"created":"2021-06-22T11:38:42","updated":"2025-08-05T16:38:26-04:00"}
+{"title":"The First Vacation","description":"For us, with the kids, all on our own","date":"2021-06-22","prevPage":"[[And Here We Are]]","nextPage":"[[Pick Up the Mic]]","tags":["family","travel"],"dg-publish":true,"created":"2021-06-22T11:38:42","updated":"2025-08-05T16:38:26-04:00","permalink":"/notes/2021/the-first-vacation/","dgPassFrontmatter":true}
 ---
 
 

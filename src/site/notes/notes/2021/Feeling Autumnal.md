@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/feeling-autumnal/","title":"Feeling Autumnal","tags":["status","seasons","tattoo"],"created":"2021-10-18T11:38:42","updated":"2025-08-09T20:36:27-04:00"}
+{"title":"Feeling Autumnal","description":"Following the seasons, something has to fall","date":"2021-10-18","prevPage":"[[Not a Break, No Really]]","nextPage":"[[The Dark, and the Dark]]","tags":["status","seasons","tattoo"],"dg-publish":true,"created":"2021-10-18T11:38:42","updated":"2025-08-09T20:36:27-04:00","permalink":"/notes/2021/feeling-autumnal/","dgPassFrontmatter":true}
 ---
 
 

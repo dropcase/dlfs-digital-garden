@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025/read-and-read/","title":"Read and Read","hide":"true","tags":["tracking","metrics","reading"],"created":"2025-08-05 17:00:45","updated":"2025-08-09T22:13:30-04:00"}
+{"title":"Read and Read","description":"They're not the same thing","date":"2025-08-05","tags":["tracking","metrics","reading"],"dg-publish":true,"dg-hide":"true","created":"2025-08-05 17:00:45","updated":"2025-08-09T22:13:30-04:00","permalink":"/notes/2025/read-and-read/","hide":"true","dgPassFrontmatter":true}
 ---
 
 ## Where it Started and Where it Went

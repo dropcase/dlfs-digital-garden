@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2022/translating-from-my-head/","title":"Translating from My Head","tags":["GitHub","writing","PKM"],"created":"2022-04-10T11:38:42","updated":"2025-08-05T16:58:25-04:00"}
+{"title":"Translating from My Head","description":"It's not clear a lot of the time","date":"2022-04-10","prevPage":"[[And Another Thing]]","nextPage":"[[]]","tags":["GitHub","writing","PKM"],"dg-publish":true,"created":"2022-04-10T11:38:42","updated":"2025-08-05T16:58:25-04:00","permalink":"/notes/2022/translating-from-my-head/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/testing-is-important/","title":"Testing is Important!","tags":["development","testing","backups","Roam","editors","Atom"],"created":"2021-07-27T11:38:42","updated":"2025-08-05T16:32:15-04:00"}
+{"title":"Testing is Important!","description":"That is, unless you like redoing work","date":"2021-07-27","prevPage":"[[Pick Up the Mic]]","nextPage":"[[Break. Fix. Repeat]]","tags":["development","testing","backups","Roam","editors","Atom"],"dg-publish":true,"created":"2021-07-27T11:38:42","updated":"2025-08-05T16:32:15-04:00","permalink":"/notes/2021/testing-is-important/","dgPassFrontmatter":true}
 ---
 
 

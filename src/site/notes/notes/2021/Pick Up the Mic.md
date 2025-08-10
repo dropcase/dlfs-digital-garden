@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2021/pick-up-the-mic/","title":"Pick Up the Mic","tags":["voiceover","audio","recording"],"created":"2021-07-09T11:38:42","updated":"2025-08-05T16:31:15-04:00"}
+{"title":"Pick Up the Mic","description":"Using just the power of my voice!","date":"2021-07-09","prevPage":"[[The First Vacation]]","nextPage":"[[Testing is Important]]","tags":["voiceover","audio","recording"],"dg-publish":true,"created":"2021-07-09T11:38:42","updated":"2025-08-05T16:31:15-04:00","permalink":"/notes/2021/pick-up-the-mic/","dgPassFrontmatter":true}
 ---
 
 

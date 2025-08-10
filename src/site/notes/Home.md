@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["gardenEntry"],"created":"2025-08-05T18:40:00","updated":"2025-08-09T21:09:33-04:00"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-09T21:09:33-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ## Time to Re-Re-Re-Restart the Process

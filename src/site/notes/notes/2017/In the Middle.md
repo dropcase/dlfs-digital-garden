@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2017/in-the-middle/","title":"In the Middle","tags":["status","learn","hexo","markdown","pre-11ty","archive"],"created":"2017-06-22T11:38:42","updated":"2025-08-05T11:54:34-04:00"}
+{"title":"In the Middle","description":null,"date":"2017-06-22","prevPage":"[[]]","nextPage":"[[These Things Take Time]]","tags":["status","learn","hexo","markdown","pre-11ty","archive"],"dg-publish":true,"created":"2017-06-22T11:38:42","updated":"2025-08-05T11:54:34-04:00","permalink":"/notes/2017/in-the-middle/","dgPassFrontmatter":true}
 ---
 
 ## It's Not the Beginning

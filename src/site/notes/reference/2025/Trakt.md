@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/2025/trakt/","title":"Trakt","tags":["metrics","tracking"],"created":"2025-08-09 20:28:27","updated":"2025-08-09T21:03:02-04:00"}
+{"title":"Trakt","description":null,"date":"2025-08-09","tags":["metrics","tracking"],"dg-publish":true,"created":"2025-08-09 20:28:27","updated":"2025-08-09T21:03:02-04:00","permalink":"/reference/2025/trakt/","dgPassFrontmatter":true}
 ---
 
 **Home**: [Discover. Track. Share. - Trakt](https://trakt.tv/)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2018/digging-out-of-an-issue/","title":"Digging Out of an Issue","tags":["git","GitLab","hexo","webdev","pre-11ty"],"created":"2018-03-02T11:38:42","updated":"2025-08-05T15:34:54-04:00"}
+{"title":"Digging Out of an Issue","description":null,"date":"2018-03-02","prevPage":"[[The Mental Traffic Jam]]","nextPage":"[[Seeing Some Green Outside]]","tags":["git","GitLab","hexo","webdev","pre-11ty"],"dg-publish":true,"created":"2018-03-02T11:38:42","updated":"2025-08-05T15:34:54-04:00","permalink":"/notes/2018/digging-out-of-an-issue/","dgPassFrontmatter":true}
 ---
 
 

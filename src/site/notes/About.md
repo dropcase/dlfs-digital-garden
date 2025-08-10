@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","title":"About","tags":["updates"],"created":"2025-08-04T19:55:52","updated":"2025-08-09T21:19:09-04:00"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-08-09T21:19:09-04:00","permalink":"/about/","dgPassFrontmatter":true}
 ---
 
 

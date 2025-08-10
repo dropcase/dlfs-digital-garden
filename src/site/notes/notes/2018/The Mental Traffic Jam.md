@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2018/the-mental-traffic-jam/","title":"The Mental Traffic Jam","tags":["writing","mentality","spark","file","methods"],"created":"2018-02-21T11:38:42","updated":"2025-08-05T15:37:49-04:00"}
+{"title":"The Mental Traffic Jam","description":null,"date":"2018-02-21","prevPage":"[[LeVar Burton Reads]]","nextPage":"[[Digging Out of an Issue]]","tags":["writing","mentality","spark","file","methods"],"dg-publish":true,"created":"2018-02-21T11:38:42","updated":"2025-08-05T15:37:49-04:00","permalink":"/notes/2018/the-mental-traffic-jam/","dgPassFrontmatter":true}
 ---
 
 

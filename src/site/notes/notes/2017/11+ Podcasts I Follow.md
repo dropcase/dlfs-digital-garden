@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2017/11-podcasts-i-follow/","title":"11+ Podcasts I Follow","tags":["podcasts","lists"],"created":"2017-08-08T11:50:54","updated":"2025-08-05T11:51:49-04:00"}
+{"title":"11+ Podcasts I Follow","description":null,"date":"2017-08-08","prevPage":"[[Laying it Out]]","nextPage":"[[The Command Line Podcast]]","tags":["podcasts","lists"],"dg-publish":true,"created":"2017-08-08T11:50:54","updated":"2025-08-05T11:51:49-04:00","permalink":"/notes/2017/11-podcasts-i-follow/","dgPassFrontmatter":true}
 ---
 
 
