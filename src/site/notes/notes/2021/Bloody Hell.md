@@ -1,5 +1,5 @@
 ---
-{"title":"Bloody Hell","description":"Sometimes progress isn't forward.","date":"2021-06-01","prevPage":"[[A Fine Mess]]","nextPage":"[[By the Third]]","tags":["status","git","GitHub","Eleventy"],"dg-publish":true,"created":"2021-06-01T11:38:42","updated":"2025-08-05T15:54:56-04:00","permalink":"/notes/2021/bloody-hell/","dgPassFrontmatter":true}
+{"title":"Bloody Hell","description":"Sometimes progress isn't forward.","date":"2021-06-01","tags":["status","git","GitHub","Eleventy"],"dg-publish":true,"created":"2021-06-01T11:38:42","updated":"2025-08-09T22:21:45-04:00","permalink":"/notes/2021/bloody-hell/","dgPassFrontmatter":true}
 ---
 
 So far I've been learning about how [[reference/2025/Eleventy\|Eleventy]] works, and I like it. Straightforward, pretty much javascript-driven [[reference/2025/Static Site Generator\|SSG]]. My workflow to get new pages needs some attention, but there's plenty I have to talk about. The progress is the story around __getting__ to where I'm writing again, using Eleventy.

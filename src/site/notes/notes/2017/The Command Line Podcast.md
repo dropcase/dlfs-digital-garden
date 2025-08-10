@@ -1,10 +1,10 @@
 ---
-{"title":"The Command Line Podcast","description":null,"date":"2017-08-10","prevPage":"[[11+ Podcasts I Follow]]","nextPage":"[[Write That Down]]","tags":["podcasts"],"dg-publish":true,"created":"2017-08-10T11:38:42","updated":"2025-08-05T15:38:32-04:00","permalink":"/notes/2017/the-command-line-podcast/","dgPassFrontmatter":true}
+{"title":"The Command Line Podcast","description":null,"date":"2017-08-10","tags":["podcasts","technology","hacking"],"dg-publish":true,"created":"2017-08-10T11:38:42","updated":"2025-08-09T22:43:13-04:00","permalink":"/notes/2017/the-command-line-podcast/","dgPassFrontmatter":true}
 ---
 
 
 **Feed URL**: http://feeds.thecommandline.net/cmdln-enhanced
-**Site URL**: http://thecommandline.net/
+**Site URL**: [The Command Line](http://thecommandline.net/)
 
 ## Description
 

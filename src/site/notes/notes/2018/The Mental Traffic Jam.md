@@ -1,5 +1,5 @@
 ---
-{"title":"The Mental Traffic Jam","description":null,"date":"2018-02-21","prevPage":"[[LeVar Burton Reads]]","nextPage":"[[Digging Out of an Issue]]","tags":["writing","mentality","spark","file","methods"],"dg-publish":true,"created":"2018-02-21T11:38:42","updated":"2025-08-05T15:37:49-04:00","permalink":"/notes/2018/the-mental-traffic-jam/","dgPassFrontmatter":true}
+{"title":"The Mental Traffic Jam","description":null,"date":"2018-02-21","nextPage":"[[Digging Out of an Issue]]","tags":["writing","mentality","spark","methods"],"dg-publish":true,"created":"2018-02-21T11:38:42","updated":"2025-08-09T22:46:00-04:00","permalink":"/notes/2018/the-mental-traffic-jam/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,7 +12,7 @@ Yes, I use (or have used) these:
   - [Evernote](https://evernote.com/)
   - [Microsoft OneNote](https://site.onenote.com) (at work)
   - [index cards](https://en.wikipedia.org/wiki/Index_card) (usually 3"x5" / 76.2mm x 127mm, blank)
-  - Google Docs (through [Google Drive](https://drive.google.com/), I have a [Spark File](https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58) there)
+  - Google Docs (through [Google Drive](https://drive.google.com/), I have an archived [[reference/2025/spark\|spark]] file there, currently in [[reference/2025/Obsidian\|Obsidian]])
   - [Google Keep](https://keep.google.com/) (I use a spark tag there)
 
 When I'm able to write down more I feel like my head is definitely clearer. The problem is capturing it and trying to keep it in roughly the same place so I remember to look at it again later. The irony is that writing more means that I'll have *more* ideas to try and get some piece of before they disappear into the ether of my unconscious mind.

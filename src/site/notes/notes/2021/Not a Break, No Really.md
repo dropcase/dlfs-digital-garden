@@ -1,5 +1,5 @@
 ---
-{"title":"Not a Break, No Really!","description":"ok maybe I was busy too","date":"2021-09-17","prevPage":"[[Break. Fix. Repeat]]","nextPage":"[[Feeling Autumnal]]","tags":["Eleventy","writing"],"dg-publish":true,"created":"2021-09-17T11:38:42","updated":"2025-08-05T16:28:54-04:00","permalink":"/notes/2021/not-a-break-no-really/","dgPassFrontmatter":true}
+{"title":"Not a Break, No Really!","description":"ok maybe I was busy too","date":"2021-09-17","tags":["Eleventy","writing"],"dg-publish":true,"created":"2021-09-17T11:38:42","updated":"2025-08-09T22:40:53-04:00","permalink":"/notes/2021/not-a-break-no-really/","dgPassFrontmatter":true}
 ---
 
 

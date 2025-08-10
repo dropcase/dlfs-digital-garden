@@ -1,5 +1,5 @@
 ---
-{"title":"LeVar Burton Reads","description":null,"date":"2017-11-07","prevPage":"[[Write That Down]]","nextPage":"[[The Mental Traffic Jam]]","tags":["podcasts"],"dg-publish":true,"created":"2017-11-07T11:38:42","updated":"2025-08-05T12:21:40-04:00","permalink":"/notes/2017/le-var-burton-reads/","dgPassFrontmatter":true}
+{"title":"LeVar Burton Reads","description":null,"date":"2017-11-07","tags":["podcasts"],"dg-publish":true,"created":"2017-11-07T11:38:42","updated":"2025-08-09T22:40:47-04:00","permalink":"/notes/2017/le-var-burton-reads/","dgPassFrontmatter":true}
 ---
 
 

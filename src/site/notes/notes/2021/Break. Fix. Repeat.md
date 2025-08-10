@@ -1,5 +1,5 @@
 ---
-{"title":"Break. Fix. Repeat.","description":"I'll learn it someday, really","date":"2021-08-20","prevPage":"[[Testing is Important]]","nextPage":"[[Not a Break, No Really]]","tags":["Netlify","testing"],"dg-publish":true,"created":"2021-08-20T11:38:42","updated":"2025-08-05T15:57:36-04:00","permalink":"/notes/2021/break-fix-repeat/","dgPassFrontmatter":true}
+{"title":"Break. Fix. Repeat.","description":"I'll learn it someday, really","date":"2021-08-20","tags":["testing","webdev"],"dg-publish":true,"created":"2021-08-20T11:38:42","updated":"2025-08-09T22:39:51-04:00","permalink":"/notes/2021/break-fix-repeat/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,7 +9,7 @@ Once of the ways I feel like I learn best is by fixing things. Whether it's code
 
 That doesn't always mean that it's the way I should do it. Take for instance, this site. I've gone through a lot of iterations (see [[About\|About]]) in the past 18+ years and gone through quite a few issues - and learned a ton from them.
 
-This latest setup is my second SSG connected to Git*b (GitHub or GitLab), first time out using [[reference/2025/Eleventy\|Eleventy]], and very newly testing out Fomantic-UI (a fork of the seemingly-forgotten Semantic-UI) to help me with my poor frontend design skills.
+This latest setup is my second SSG connected to Git`*`b ([[reference/2025/GitHub\|GitHub]] or GitLab), first time out using [[reference/2025/Eleventy\|Eleventy]], and very newly testing out Fomantic-UI (a fork of the seemingly-forgotten Semantic-UI) to help me with my poor frontend design skills.
 
 ## The Breakening
 

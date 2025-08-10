@@ -1,5 +1,5 @@
 ---
-{"title":"And Another Thing!","description":"Or, I weigh my options","date":"2022-02-27","prevPage":"[[Yes, Try Again]]","nextPage":"[[Translating from My Head]]","tags":["perspective","alternatives","writing","note-taking","platform"],"dg-publish":true,"created":"2022-02-27T11:38:42","updated":"2025-08-05T16:57:19-04:00","permalink":"/notes/2022/and-another-thing/","dgPassFrontmatter":true}
+{"title":"And Another Thing!","description":"Or, I weigh my options","date":"2022-02-27","tags":["perspective","alternatives","writing","note-taking","platform"],"dg-publish":true,"created":"2022-02-27T11:38:42","updated":"2025-08-09T22:39:44-04:00","permalink":"/notes/2022/and-another-thing/","dgPassFrontmatter":true}
 ---
 
 

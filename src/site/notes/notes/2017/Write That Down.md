@@ -1,5 +1,5 @@
 ---
-{"title":"Write That Down","description":null,"date":"2017-10-19","prevPage":"[[The Command Line Podcast]]","nextPage":"[[LeVar Burton Reads]]","tags":["writing","education"],"dg-publish":true,"created":"2017-10-19T11:38:42","updated":"2025-08-05T15:34:35-04:00","permalink":"/notes/2017/write-that-down/","dgPassFrontmatter":true}
+{"title":"Write That Down","description":null,"date":"2017-10-19","tags":["writing","education"],"dg-publish":true,"created":"2017-10-19T11:38:42","updated":"2025-08-09T22:48:52-04:00","permalink":"/notes/2017/write-that-down/","dgPassFrontmatter":true}
 ---
 
 
