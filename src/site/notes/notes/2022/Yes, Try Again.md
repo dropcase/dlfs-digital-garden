@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2022/yes-try-again/","title":"Yes, Try Again","tags":["perspective","covid","hobby-chasing"],"created":"2022-01-22T11:38:42","updated":"2025-08-05T16:59:27-04:00"}
+{"dg-publish":true,"permalink":"/notes/2022/yes-try-again/","title":"Yes, Try Again","tags":["perspective","covid","hobby-chasing"],"created":"2022-01-22T11:38:42","updated":"2025-08-09T20:23:49-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025/read-and-read/","title":"Read and Read","tags":["tracking","metrics","reading"],"created":"2025-08-05 17:00:45","updated":"2025-08-05T17:02:03-04:00"}
+{"dg-publish":true,"permalink":"/notes/2025/read-and-read/","title":"Read and Read","tags":["tracking","metrics","reading"],"created":"2025-08-05 17:00:45","updated":"2025-08-09T20:07:37-04:00"}
 ---
 
 ## Where it Started and Where it Went
@@ -7,7 +7,7 @@
 As a kid, I was a voracious reader up into high school. Yes, it was before the internet and streaming, I still loved books and bookstores and going to the library.
 
 Fast forward a decade or three to today and I'm rebuilding my reading habits. Where I currently live makes it easy, there's a library about a three minute walk from me and open until 8pm a couple of times a week.
-
+[]
 ## Tracking, Tracking, Tracked
 
 I'm also someone who likes to keep track of certain things, like [[reference/2025/Trakt\|Trakt]] for movies and series, as well as books and reading. For a while I was trying out [[reference/2025/Goodreads\|Goodreads]] but something didn't click for me.

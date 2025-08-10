@@ -13,7 +13,6 @@ Still getting my legs under me with this setup, hoping it'll be what I'm looking
 ## All Posted Notes
 (newest to oldest)
 - [[notes/2025/Read and Read\|Read and Read]]
-- [[notes/2025/Hello There\|Hello There]]
 - [[notes/2022/Translating from My Head\|Translating from My Head]]
 - [[notes/2022/And Another Thing\|And Another Thing]]
 - [[notes/2022/Yes, Try Again\|Yes, Try Again]]
