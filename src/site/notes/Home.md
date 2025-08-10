@@ -48,6 +48,7 @@ One day I'll pull a bunch of the ideas out of my [[reference/2025/Obsidian\|Obsi
 - [[reference/2025/GitHub\|GitHub]]
 - [[reference/2025/Goodreads\|Goodreads]]
 - [[reference/2025/MySQL\|MySQL]]
+- [[reference/2025/Netlify\|Netlify]]
 - [[reference/2025/Obsidian\|Obsidian]]
 - [[reference/2025/Personal Knowledge Management\|Personal Knowledge Management]]
 - [[reference/2025/PHP\|PHP]]
@@ -56,6 +57,7 @@ One day I'll pull a bunch of the ideas out of my [[reference/2025/Obsidian\|Obsi
 - [[reference/2025/Static Site Generator\|Static Site Generator]]
 - [[reference/2025/StoryGraph\|StoryGraph]]
 - [[reference/2025/Trakt\|Trakt]]
+- [[reference/2025/Vercel\|Vercel]]
 - [[reference/2025/Zettelkasten\|Zettelkasten]]
 
 { .block-language-dataview}
