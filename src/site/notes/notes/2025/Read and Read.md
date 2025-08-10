@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2025/read-and-read/","title":"Read and Read","tags":["tracking","metrics","reading"],"created":"2025-08-05 17:00:45","updated":"2025-08-09T22:06:27-04:00"}
+{"dg-publish":true,"permalink":"/notes/2025/read-and-read/","title":"Read and Read","hide":"true","tags":["tracking","metrics","reading"],"created":"2025-08-05 17:00:45","updated":"2025-08-09T22:13:30-04:00"}
 ---
 
 ## Where it Started and Where it Went
