@@ -3,7 +3,7 @@
    id="emoji"
    viewBox="0 0 72 72"
    version="1.1"
-   sodipodi:docname="favicon.svg"
+   sodipodi:docname="favicon-dropcase.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,49 +21,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     showguides="false"
-     inkscape:zoom="0.9983453"
-     inkscape:cx="-23.038121"
-     inkscape:cy="94.656628"
-     inkscape:window-width="3730"
-     inkscape:window-height="2131"
-     inkscape:window-x="101"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:zoom="11.722222"
+     inkscape:cx="36"
+     inkscape:cy="36"
+     inkscape:window-width="1509"
+     inkscape:window-height="1089"
+     inkscape:window-x="389"
+     inkscape:window-y="269"
+     inkscape:window-maximized="0"
      inkscape:current-layer="emoji">
-    <sodipodi:guide
-       position="36,6"
-       orientation="0,-1"
-       id="guide986"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="66,36"
-       orientation="1,0"
-       id="guide988"
-       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid1044" />
-    <sodipodi:guide
-       position="36,36"
-       orientation="1,0"
-       id="guide1046"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="36,36"
-       orientation="0,-1"
-       id="guide1048"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="36,66"
-       orientation="0,-1"
-       id="guide1050"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="6,36"
-       orientation="1,0"
-       id="guide1052"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="hair" />
@@ -99,4 +69,20 @@
      style="fill:none;stroke:#215d44;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      d="M 47,6 V 36"
      id="path1176" />
+  <path
+     sodipodi:type="star"
+     style="display:inline;fill:none;stroke:#215d44;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     id="hex-d"
+     inkscape:flatsided="true"
+     sodipodi:sides="6"
+     sodipodi:cx="36"
+     sodipodi:cy="36"
+     sodipodi:r1="11"
+     sodipodi:r2="9.5262794"
+     sodipodi:arg1="0.52359878"
+     sodipodi:arg2="1.0471976"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 45.526279,41.5 36,47 l -9.526279,-5.5 0,-11 L 36,25 l 9.526279,5.5 z"
+     transform="matrix(1.1089524,0,0,1.1089524,-3.9222862,-3.9222862)" />
 </svg>
