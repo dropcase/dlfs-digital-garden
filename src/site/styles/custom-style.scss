@@ -19,6 +19,8 @@ body {
     --h5-color: var(--color-blue);
     --h6-color: var(--color-purple);
 
-    font-family: 'Roboto Mono', 'Lucida Console', monospace;
+    * {
+      font-family: 'Roboto Mono', 'Lucida Console', monospace;
+    }
 
 }
