@@ -53,7 +53,7 @@ The rundown of various ways I've managed content on the site include hand-coding
 
 #### Two Thousand and Four
 
-Less than a year later I left that large financial company and started at a small but growing company based in Waltham, Massachusetts (but headquartered in Sweden). There ended up being a lot of free time as the only IT person on-site a lot of the time, so I started using some of the things I learned in PHP and MySQL to start streamlining some of the processes used - and especially the Intranet we were on. It was manually coded using something that I wouldn't wish on anyone sane. You had to install an application to "load" the site in and make edits, which it would then publish for you.
+Less than a year later I left that large financial company and started at a small but growing company based in Waltham, Massachusetts (but headquartered in Sweden). There ended up being a lot of free time as the only IT person on-site a lot of the time, so I started using some of the things I learned in [[reference/2025/PHP\|PHP]] and [[reference/2025/MySQL\|MySQL]] to start streamlining some of the processes used - and especially the Intranet we were on. It was manually coded using something that I wouldn't wish on anyone sane. You had to install an application to "load" the site in and make edits, which it would then publish for you.
 
 Why, you may ask? It was because the person "in charge" of IT on-site at the time wasn't actually _that_ technical and didn't know how to do web development.
 

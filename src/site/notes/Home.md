@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-10T19:37:27-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-11T13:46:13-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
@@ -8,6 +8,8 @@
 Scattered throughout this site, you'll find more than one starting point. Some from old copies of content, some while I was trying to get changed over to another platform, and some just because I wrote it and wanted to keep it. This is another one of those starting points.
 
 One day I'll pull a bunch of the ideas out of my [[reference/2025/Obsidian\|Obsidian]] vault and make them into notes here. Until that happens, it'll just be slowly piecing together the framework and foundation of the site to build from. I know that the [[About\|About]] page has some of it, and I'll try to connect more ideas together along the way.
+
+There will be a lot of changes to the setup while I sort things out. Not that anyone is reading this, but don't save any bookmarks for a while (or just use the built-in)
 
 ## Starting Points
 

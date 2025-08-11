@@ -1,5 +1,5 @@
 ---
-{"title":"Perfect is the Enemy of Good Enough","description":"I mean, obviously right?","date":"2025-08-10","tags":["ponder","mentality"],"dg-publish":true,"created":"2025-08-10 20:11:08","updated":"2025-08-11T12:24:43-04:00","permalink":"/notes/2025/perfect-is-the-enemy-of-good-enough/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Perfect is the Enemy of Good Enough","description":"I mean, obviously right?","date":"2025-08-10","tags":["ponder","mentality"],"dg-publish":true,"created":"2025-08-10 20:11:08","updated":"2025-08-11T13:28:42-04:00","permalink":"/notes/2025/perfect-is-the-enemy-of-good-enough/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 I did it, finally got back up and running on the domain I've had for _checks watch_ 22 years as of this past May. This post was almost called `Even Small Steps Make Progress` but it felt like it was missing something in the point.
@@ -16,4 +16,5 @@ Now it's out there, getting updated and filling out more content along the way. 
 
 - [ ] Comments/discussions?
 - [ ] Custom CSS updates
-- [ ] 
+- [ ] ???
+- [ ] _profit_
