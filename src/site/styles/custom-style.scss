@@ -19,8 +19,9 @@ body {
     --h5-color: var(--color-blue);
     --h6-color: var(--color-purple);
 
-    * {
-      font-family: 'Roboto Mono', 'Lucida Console', monospace !important;
-    }
+    // Undecided on the font, keeping the default for the theme for now (2025-08-11)
+    // * {
+    //   font-family: 'Roboto Mono', 'Lucida Console', monospace !important;
+    // }
 
 }
