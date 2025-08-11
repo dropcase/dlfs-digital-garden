@@ -1,5 +1,5 @@
 ---
-{"title":"Zettelkasten","description":null,"date":"2025-08-05","tags":["PKM"],"dg-publish":true,"created":"2025-08-05 16:40:40","updated":"2025-08-05T16:48:00-04:00","permalink":"/reference/2025/zettelkasten/","dgPassFrontmatter":true}
+{"title":"Zettelkasten","description":null,"date":"2025-08-05","tags":["PKM"],"dg-publish":true,"created":"2025-08-05 16:40:40","updated":"2025-08-05T16:48:00-04:00","permalink":"/reference/2025/zettelkasten/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 ## The What

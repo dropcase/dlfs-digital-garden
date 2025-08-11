@@ -1,5 +1,5 @@
 ---
-{"title":"The Dark, and the Dark","description":"No good on either side of the day","date":"2021-11-23","tags":["outdoors","seasons"],"dg-publish":true,"created":"2021-11-23T11:38:42","updated":"2025-08-09T22:43:55-04:00","permalink":"/notes/2021/the-dark-and-the-dark/","dgPassFrontmatter":true}
+{"title":"The Dark, and the Dark","description":"No good on either side of the day","date":"2021-11-23","tags":["outdoors","seasons"],"dg-publish":true,"created":"2021-11-23T11:38:42","updated":"2025-08-09T22:43:55-04:00","permalink":"/notes/2021/the-dark-and-the-dark/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

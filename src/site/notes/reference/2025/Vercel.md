@@ -1,5 +1,5 @@
 ---
-{"title":"Vercel","description":null,"date":"2025-08-09","tags":["webdev","hosting"],"dg-publish":true,"created":"2025-08-09 21:19:40","updated":"2025-08-09T21:34:21-04:00","permalink":"/reference/2025/vercel/","dgPassFrontmatter":true}
+{"title":"Vercel","description":null,"date":"2025-08-09","tags":["webdev","hosting"],"dg-publish":true,"created":"2025-08-09 21:19:40","updated":"2025-08-09T21:34:21-04:00","permalink":"/reference/2025/vercel/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 **Home**: [Vercel: Build and deploy the best web experiences with the AI Cloud](https://vercel.com/)

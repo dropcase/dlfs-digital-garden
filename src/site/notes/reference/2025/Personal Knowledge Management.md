@@ -1,5 +1,5 @@
 ---
-{"title":"Personal Knowledge Management","description":"Second brain, sometimes","date":"2025-08-03T19:45","tags":["PKM","note-taking"],"dg-publish":true,"created":"2025-08-03T15:03:12","updated":"2025-08-09T20:39:02-04:00","aliases":["PKM"],"permalink":"/reference/2025/personal-knowledge-management/","dgPassFrontmatter":true}
+{"title":"Personal Knowledge Management","description":"Second brain, sometimes","date":"2025-08-03T19:45","tags":["PKM","note-taking"],"dg-publish":true,"created":"2025-08-03T15:03:12","updated":"2025-08-09T20:39:02-04:00","aliases":["PKM"],"permalink":"/reference/2025/personal-knowledge-management/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 ## The OG

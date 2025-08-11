@@ -1,5 +1,5 @@
 ---
-{"title":"Seeing Some Green Outside","description":null,"date":"2018-03-29","tags":["nature","weather","outdoors"],"dg-publish":true,"created":"2018-03-29T11:38:42","updated":"2025-08-09T22:41:20-04:00","permalink":"/notes/2018/seeing-some-green-outside/","dgPassFrontmatter":true}
+{"title":"Seeing Some Green Outside","description":null,"date":"2018-03-29","tags":["nature","weather","outdoors"],"dg-publish":true,"created":"2018-03-29T11:38:42","updated":"2025-08-09T22:41:20-04:00","permalink":"/notes/2018/seeing-some-green-outside/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

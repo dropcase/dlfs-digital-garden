@@ -1,5 +1,5 @@
 ---
-{"title":"These Things Take Time","description":null,"date":"2017-06-27","tags":["writing","social","networks"],"dg-publish":true,"created":"2017-06-27T11:38:42","updated":"2025-08-09T22:46:15-04:00","permalink":"/notes/2017/these-things-take-time/","dgPassFrontmatter":true}
+{"title":"These Things Take Time","description":null,"date":"2017-06-27","tags":["writing","social","networks"],"dg-publish":true,"created":"2017-06-27T11:38:42","updated":"2025-08-09T22:46:15-04:00","permalink":"/notes/2017/these-things-take-time/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

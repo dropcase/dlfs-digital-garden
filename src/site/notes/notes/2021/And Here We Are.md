@@ -1,5 +1,5 @@
 ---
-{"title":"And Here We Are","description":"The first step is acknowledging the habit","date":"2021-06-19","tags":["status","outer-thoughts"],"dg-publish":true,"created":"2021-06-19T11:38:42","updated":"2025-08-09T22:18:52-04:00","permalink":"/notes/2021/and-here-we-are/","dgPassFrontmatter":true}
+{"title":"And Here We Are","description":"The first step is acknowledging the habit","date":"2021-06-19","tags":["status","outer-thoughts"],"dg-publish":true,"created":"2021-06-19T11:38:42","updated":"2025-08-09T22:18:52-04:00","permalink":"/notes/2021/and-here-we-are/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

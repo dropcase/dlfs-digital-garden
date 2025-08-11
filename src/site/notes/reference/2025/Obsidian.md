@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian","description":"The free and flexible app for your private thoughts.","date":"2025-08-03T19:59","tags":["PKM","writing","thinking","spark"],"dg-publish":true,"created":"2025-08-03T17:02:56","updated":"2025-08-09T22:02:02-04:00","permalink":"/reference/2025/obsidian/","dgPassFrontmatter":true}
+{"title":"Obsidian","description":"The free and flexible app for your private thoughts.","date":"2025-08-03T19:59","tags":["PKM","writing","thinking","spark"],"dg-publish":true,"created":"2025-08-03T17:02:56","updated":"2025-08-09T22:02:02-04:00","permalink":"/reference/2025/obsidian/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

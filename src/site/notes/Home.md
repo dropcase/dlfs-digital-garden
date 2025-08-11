@@ -1,7 +1,8 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-09T21:09:33-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-10T19:37:27-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
+# First, Welcome
 ## Time to Re-Re-Re-Restart the Process
 
 Scattered throughout this site, you'll find more than one starting point. Some from old copies of content, some while I was trying to get changed over to another platform, and some just because I wrote it and wanted to keep it. This is another one of those starting points.
@@ -14,6 +15,7 @@ One day I'll pull a bunch of the ideas out of my [[reference/2025/Obsidian\|Obsi
 
 ## All Posted Notes
 (newest to oldest)
+- [[notes/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 - [[notes/2025/Read and Read\|Read and Read]]
 - [[notes/2022/Translating from My Head\|Translating from My Head]]
 - [[notes/2022/And Another Thing\|And Another Thing]]

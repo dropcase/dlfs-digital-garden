@@ -1,5 +1,5 @@
 ---
-{"title":"The Mental Traffic Jam","description":null,"date":"2018-02-21","nextPage":"[[Digging Out of an Issue]]","tags":["writing","mentality","spark","methods"],"dg-publish":true,"created":"2018-02-21T11:38:42","updated":"2025-08-09T22:46:00-04:00","permalink":"/notes/2018/the-mental-traffic-jam/","dgPassFrontmatter":true}
+{"title":"The Mental Traffic Jam","description":null,"date":"2018-02-21","nextPage":"[[Digging Out of an Issue]]","tags":["writing","mentality","spark","methods"],"dg-publish":true,"created":"2018-02-21T11:38:42","updated":"2025-08-09T22:46:00-04:00","permalink":"/notes/2018/the-mental-traffic-jam/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

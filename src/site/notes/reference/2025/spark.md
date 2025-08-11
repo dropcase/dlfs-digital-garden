@@ -1,5 +1,5 @@
 ---
-{"title":"Spark File","description":"capture ideas and put them together later","date":"2025-08-03T22:31","tags":["spark","file"],"dg-publish":true,"created":"2025-08-03T17:04:41","updated":"2025-08-10T18:11:36-04:00","permalink":"/reference/2025/spark/","dgPassFrontmatter":true}
+{"title":"Spark File","description":"capture ideas and put them together later","date":"2025-08-03T22:31","tags":["spark","file"],"dg-publish":true,"created":"2025-08-03T17:04:41","updated":"2025-08-10T18:11:36-04:00","permalink":"/reference/2025/spark/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 I don't remember when I first learned about a spark file, but it's been a long time - 2012ish sounds about right:

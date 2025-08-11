@@ -1,5 +1,5 @@
 ---
-{"title":"Feeling Autumnal","description":"Following the seasons, something has to fall","date":"2021-10-18","tags":["status","seasons","tattoo"],"dg-publish":true,"created":"2021-10-18T11:38:42","updated":"2025-08-09T22:40:39-04:00","permalink":"/notes/2021/feeling-autumnal/","dgPassFrontmatter":true}
+{"title":"Feeling Autumnal","description":"Following the seasons, something has to fall","date":"2021-10-18","tags":["status","seasons","tattoo"],"dg-publish":true,"created":"2021-10-18T11:38:42","updated":"2025-08-09T22:40:39-04:00","permalink":"/notes/2021/feeling-autumnal/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

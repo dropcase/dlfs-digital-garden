@@ -1,5 +1,5 @@
 ---
-{"title":"PHP","description":"(Personal Home Page) Hypertext Preprocessor","date":"2025-08-09","tags":["webdev","development"],"dg-publish":true,"created":"2025-08-09 18:52:39","updated":"2025-08-09T18:56:35-04:00","permalink":"/reference/2025/php/","dgPassFrontmatter":true}
+{"title":"PHP","description":"(Personal Home Page) Hypertext Preprocessor","date":"2025-08-09","tags":["webdev","development"],"dg-publish":true,"created":"2025-08-09 18:52:39","updated":"2025-08-09T18:56:35-04:00","permalink":"/reference/2025/php/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 **Home**: [PHP: Hypertext Preprocessor](https://www.php.net/)
