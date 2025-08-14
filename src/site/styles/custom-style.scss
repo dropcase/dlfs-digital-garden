@@ -25,8 +25,9 @@ body {
     // }
     * {
         font-family: 'Fira Code';
-        src: url('/fonts/firacode62/woff2/FiraCode-Regular.woff2') format('woff2'),
-        url("/fonts/firacode62/woff/FiraCode-Regular.woff") format("woff");
+        src: 
+          url('fonts/firacode62/woff2/FiraCode-Regular.woff2') format('woff2'),
+          url("/onts/firacode62/woff/FiraCode-Regular.woff") format("woff");
         font-weight: 400;
         font-style: normal;
       }
