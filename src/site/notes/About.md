@@ -53,7 +53,7 @@ The rundown of various ways I've managed content on the site include hand-coding
 
 #### Two Thousand and Four
 
-Less than a year later I left that large financial company and started at a small but growing company based in Waltham, Massachusetts (but headquartered in Sweden). There ended up being a lot of free time as the only IT person on-site a lot of the time, so I started using some of the things I learned in [[reference/2025/PHP\|PHP]] and [[reference/2025/MySQL\|MySQL]] to start streamlining some of the processes used - and especially the Intranet we were on. It was manually coded using something that I wouldn't wish on anyone sane. You had to install an application to "load" the site in and make edits, which it would then publish for you.
+Less than a year later I left that large financial company and started at a small but growing company based in Waltham, Massachusetts (but headquartered in Sweden). There ended up being a lot of free time as the only IT person on-site a lot of the time, so I started using some of the things I learned in [[input/dev/PHP\|PHP]] and [[input/dev/MySQL\|MySQL]] to start streamlining some of the processes used - and especially the Intranet we were on. It was manually coded using something that I wouldn't wish on anyone sane. You had to install an application to "load" the site in and make edits, which it would then publish for you.
 
 Why, you may ask? It was because the person "in charge" of IT on-site at the time wasn't actually _that_ technical and didn't know how to do web development.
 
@@ -62,7 +62,7 @@ Why, you may ask? It was because the person "in charge" of IT on-site at the tim
 
 Finally getting not only motivation, but a platform to use after trying out several. The biggest issue was friction of getting updates to "the right place" which usually meant my desktop.
 
-Currently using [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), which works great with my existing [[reference/2025/Obsidian\|Obsidian]] workflow and setup. Paired with [[git\|git]] and [[reference/2025/Vercel\|Vercel]], it's clean and works as well as I need it to. Bonus, it works on mobile which some other [[reference/2025/Static Site Generator\|SSG]] setups didn't handle the way I wanted.
+Currently using [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), which works great with my existing [[input/learn/Obsidian\|Obsidian]] workflow and setup. Paired with [[git\|git]] and [[input/dev/Vercel\|Vercel]], it's clean and works as well as I need it to. Bonus, it works on mobile which some other [[reference/2025/Static Site Generator\|SSG]] setups didn't handle the way I wanted.
 
 ## The Technology Behind It
 
@@ -70,7 +70,7 @@ Here's what I'm using for this iteration (in alphabetical order, except for the 
 
 - [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), easy and straightforward way for me to write and get stuff updated
 - [Git](https://git-scm.com/), mostly on Windows using Git bash
-- [[reference/2025/GitHub\|GitHub]], repo holder, and hosting
-- [[reference/2025/Eleventy\|Eleventy]], a nice & simple Static Site Generator
+- [[input/dev/GitHub\|GitHub]], repo holder, and hosting
+- [[input/learn/Eleventy\|Eleventy]], a nice & simple Static Site Generator
 - [Markdown](https://daringfireball.net/projects/markdown/)
 - my brain, a chunk of wrinkled gray matter in my skull

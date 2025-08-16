@@ -10,6 +10,6 @@ Now? I'm right in the middle. The middle of the year, middle of projects at work
 
 I'm even in the middle of designing this site, again. Definitely not giving up, just slowly building back up to being visible again.
 
-Luckily I've found an [[reference/2025/Static Site Generator\|SSG]] that I like, called [Hexo](https://hexo.io/). No crazy setup, javascript based, and plays nice with GitLab and [[reference/2025/GitHub\|GitHub]] - along with plenty of other options. Posts are written in [Markdown](https://daringfireball.net/projects/markdown/) so they're readable by people **and** machines, no fancy editor needed.
+Luckily I've found an [[reference/2025/Static Site Generator\|SSG]] that I like, called [Hexo](https://hexo.io/). No crazy setup, javascript based, and plays nice with GitLab and [[input/dev/GitHub\|GitHub]] - along with plenty of other options. Posts are written in [Markdown](https://daringfireball.net/projects/markdown/) so they're readable by people **and** machines, no fancy editor needed.
 
 I might backfill some of the posts from other places, or just link to them at some point. It's really just filling out more of the middle stuff until I can find the edges.

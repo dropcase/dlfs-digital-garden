@@ -19,8 +19,8 @@ WIP: eventually inked to the main URL, unless there's a separate note
 - Logseq
 - Milanote
 - Notion
-- [[reference/2025/Obsidian\|Obsidian]] - my current PKM, as of 2024-05-24
-- [[reference/2025/Roam\|Roam]] - the first PKM I used consistently, got in during the beta so I had one free graph
+- [[input/learn/Obsidian\|Obsidian]] - my current PKM, as of 2024-05-24
+- [[input/learn/Roam\|Roam]] - the first PKM I used consistently, got in during the beta so I had one free graph
 - Silver Bullet
 - Trilium Notes
 - Workflowy

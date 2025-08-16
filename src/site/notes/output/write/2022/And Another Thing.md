@@ -20,7 +20,7 @@ Snark aside, it's true. There are plenty of articles out there discussing the fi
 - Note-taking apps (OneNote, Evernote, Zoho Notebook, dabbled in Notion)
 - Bullet-driven ([Workflowy](https://workflowy.com/))
 
-The one that stuck and worked best for me was [Roam Research](https://roamresearch.com/). I was lucky enough to be grandfathered in while it was being developed, so I have one graph that's "free" and I used it daily from January 12th, 2020 until I switched to [[reference/2025/Obsidian\|Obsidian]] on May 24th, 2024. I'll break out another note all about my take on Roam and other similar offerings, like Obsidian and [Logseq](https://logseq.com/) and other [[reference/2025/Personal Knowledge Management\|PKM]] options, other than to say that I like all three for different reasons.
+The one that stuck and worked best for me was [Roam Research](https://roamresearch.com/). I was lucky enough to be grandfathered in while it was being developed, so I have one graph that's "free" and I used it daily from January 12th, 2020 until I switched to [[input/learn/Obsidian\|Obsidian]] on May 24th, 2024. I'll break out another note all about my take on Roam and other similar offerings, like Obsidian and [Logseq](https://logseq.com/) and other [[reference/2025/Personal Knowledge Management\|PKM]] options, other than to say that I like all three for different reasons.
 
 It's very nice to have a platform that I can use as my second brain, and that I have snapshots of (hourly at the moment, nice feature they added). It's helped take some of the load off of my mind, and combined with therapy has made such a huge difference in my mental state.
 

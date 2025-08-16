@@ -1,18 +1,18 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-16T12:55:43-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-16T13:22:38-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
 
-I'm Dave, aka dropcase. This is the latest version of the site, and more closely aligned with how my brain works. More on that later though, unless you want to jump into [[reference/2025/Personal Knowledge Management\|PKM]] and [[reference/2025/Obsidian\|Obsidian]].
+I'm Dave, aka dropcase. This is the latest version of the site, and more closely aligned with how my brain works. More on that later though, unless you want to jump into [[reference/2025/Personal Knowledge Management\|PKM]] and [[input/learn/Obsidian\|Obsidian]].
 
-Very much a work in progress, there are a lot of holes to fill in with writing I've done and notes to fill out and create.
+Very much a work in progress, there are a lot of holes to fill in with writing I've done and notes to fill out and create. I'll probably move and reorganize a few times until things settle into place.
 
 ## Time to Re-Re-Re-Restart the Process
 
 Scattered throughout this site, you'll find more than one starting point. Some from old copies of content, some while I was trying to get changed over to another platform, and some just because I wrote it and wanted to keep it. This is another one of those starting points.
 
-One day I'll pull a bunch of the ideas out of my [[reference/2025/Obsidian\|Obsidian]] vault and make them into notes here. Until that happens, it'll just be slowly piecing together the framework and foundation of the site to build from. I know that the [[About\|About]] page has some of it, and I'll try to connect more ideas together along the way.
+One day I'll pull a bunch of the ideas out of my [[input/learn/Obsidian\|Obsidian]] vault and make them into notes here. Until that happens, it'll just be slowly piecing together the framework and foundation of the site to build from. I know that the [[About\|About]] page has some of it, and I'll try to connect more ideas together along the way.
 
 There will be a lot of changes to the setup while I sort things out. Not that anyone is reading this, but don't save any bookmarks for a while (or just use the built-in)
 
@@ -54,20 +54,9 @@ There will be a lot of changes to the setup while I sort things out. Not that an
 
 { .block-language-dataview}
 ## All Reference Notes
-- [[reference/2025/Eleventy\|Eleventy]]
-- [[reference/2025/GitHub\|GitHub]]
-- [[reference/2025/Goodreads\|Goodreads]]
-- [[reference/2025/MySQL\|MySQL]]
-- [[reference/2025/Netlify\|Netlify]]
-- [[reference/2025/Obsidian\|Obsidian]]
 - [[reference/2025/Personal Knowledge Management\|Personal Knowledge Management]]
-- [[reference/2025/PHP\|PHP]]
-- [[reference/2025/Roam\|Roam]]
 - [[reference/2025/spark\|spark]]
 - [[reference/2025/Static Site Generator\|Static Site Generator]]
-- [[reference/2025/StoryGraph\|StoryGraph]]
-- [[reference/2025/Trakt\|Trakt]]
-- [[reference/2025/Vercel\|Vercel]]
 - [[reference/2025/Zettelkasten\|Zettelkasten]]
 
 { .block-language-dataview}

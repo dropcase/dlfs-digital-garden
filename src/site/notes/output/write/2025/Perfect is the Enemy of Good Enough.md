@@ -8,7 +8,7 @@ There's been a few times where I've had it _click_ that what I was working on wa
 
 In this case, the last posted update to this site was March 2018. Since then there's been a lot of changes (even outside of a global pandemic and turbulent US events), and even with more than a few false starts, I couldn't find something that worked well for me.
 
-Now it's a combo of two things I enjoy: [[reference/2025/Obsidian\|Obsidian]] and [[reference/2025/Eleventy\|Eleventy]], which work great together. I can write using a platform I like and am comfortable with, and publish for free with a combo of Eleventy and [[reference/2025/Vercel\|Vercel]] through an easy to use plugin. It's as low-friction as I need.
+Now it's a combo of two things I enjoy: [[input/learn/Obsidian\|Obsidian]] and [[input/learn/Eleventy\|Eleventy]], which work great together. I can write using a platform I like and am comfortable with, and publish for free with a combo of Eleventy and [[input/dev/Vercel\|Vercel]] through an easy to use plugin. It's as low-friction as I need.
 
 Setting the bar low and looking to get at least one post a month. Anything more than that and it ends up delving into something I'd rather not do at all (kind of like a slow burn).
 

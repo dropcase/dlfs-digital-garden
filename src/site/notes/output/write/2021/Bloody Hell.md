@@ -2,7 +2,7 @@
 {"title":"Bloody Hell","description":"Sometimes progress isn't forward.","date":"2021-06-01","tags":["status","git","GitHub","Eleventy","yet-another","alternatives","SSG"],"dg-publish":true,"created":"2021-06-01T11:38:42","updated":"2025-08-11T12:40:26-04:00","permalink":"/output/write/2021/bloody-hell/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
-So far I've been learning about how [[reference/2025/Eleventy\|Eleventy]] works, and I like it. Straightforward, pretty much javascript-driven [[reference/2025/Static Site Generator\|SSG]]. My workflow to get new pages needs some attention, but there's plenty I have to talk about. The progress is the story around __getting__ to where I'm writing again, using Eleventy.
+So far I've been learning about how [[input/learn/Eleventy\|Eleventy]] works, and I like it. Straightforward, pretty much javascript-driven [[reference/2025/Static Site Generator\|SSG]]. My workflow to get new pages needs some attention, but there's plenty I have to talk about. The progress is the story around __getting__ to where I'm writing again, using Eleventy.
 
 After trying hexo as the [[reference/2025/Static Site Generator\|SSG]] for my site, I stalled while trying to figure out how I could use it better. There's a significant gap between the last thing I wrote and today. I wanted to learn something new, and still use an SSG.
 

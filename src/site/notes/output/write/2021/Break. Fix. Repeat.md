@@ -9,7 +9,7 @@ Once of the ways I feel like I learn best is by fixing things. Whether it's code
 
 That doesn't always mean that it's the way I should do it. Take for instance, this site. I've gone through a lot of iterations (see [[About\|About]]) in the past 18+ years and gone through quite a few issues - and learned a ton from them.
 
-This latest setup is my second [[reference/2025/Static Site Generator\|SSG]] connected to Git`*`b ([[reference/2025/GitHub\|GitHub]] or GitLab), first time out using [[reference/2025/Eleventy\|Eleventy]], and very newly testing out Fomantic-UI (a fork of the seemingly-forgotten Semantic-UI) to help me with my poor frontend design skills.
+This latest setup is my second [[reference/2025/Static Site Generator\|SSG]] connected to Git`*`b ([[input/dev/GitHub\|GitHub]] or GitLab), first time out using [[input/learn/Eleventy\|Eleventy]], and very newly testing out Fomantic-UI (a fork of the seemingly-forgotten Semantic-UI) to help me with my poor frontend design skills.
 
 ## The Breakening
 

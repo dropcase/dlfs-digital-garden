@@ -8,6 +8,6 @@ It also means that we can __repeat__ those patterns too. For example, when I try
 
 This is still exactly one of those patterns, and I fully plan on writing more about the platform or system I use along the way. It helps with making sense of what I'm learning along with a running record of where I've progressed from.
 
-Current setup: [[reference/2025/Eleventy\|Eleventy]], using the starter blog. Tied to a [[reference/2025/GitHub\|GitHub]] repo, and Netlify to help wrangle things into shape.
+Current setup: [[input/learn/Eleventy\|Eleventy]], using the starter blog. Tied to a [[input/dev/GitHub\|GitHub]] repo, and Netlify to help wrangle things into shape.
 
 Also, I need to decorate this place.

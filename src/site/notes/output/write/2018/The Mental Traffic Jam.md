@@ -12,7 +12,7 @@ Yes, I use (or have used) these:
   - [Evernote](https://evernote.com/)
   - [Microsoft OneNote](https://site.onenote.com) (at work)
   - [index cards](https://en.wikipedia.org/wiki/Index_card) (usually 3"x5" / 76.2mm x 127mm, blank)
-  - Google Docs (through [Google Drive](https://drive.google.com/), I have an archived [[reference/2025/spark\|spark]] file there, currently in [[reference/2025/Obsidian\|Obsidian]])
+  - Google Docs (through [Google Drive](https://drive.google.com/), I have an archived [[reference/2025/spark\|spark]] file there, currently in [[input/learn/Obsidian\|Obsidian]])
   - [Google Keep](https://keep.google.com/) (I use a spark tag there)
 
 When I'm able to write down more I feel like my head is definitely clearer. The problem is capturing it and trying to keep it in roughly the same place so I remember to look at it again later. The irony is that writing more means that I'll have *more* ideas to try and get some piece of before they disappear into the ether of my unconscious mind.
