@@ -1,8 +1,13 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-11T13:46:13-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-15T21:11:20-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
+
+I'm Dave, aka dropcase. This is the latest version of the site, and more closely aligned with how my brain works. More on that later though, unless you want to jump into [[reference/2025/Personal Knowledge Management\|PKM]] and [[reference/2025/Obsidian\|Obsidian]].
+
+Very much a work in progress, there are a lot of holes to fill in with writing I've done and notes to fill out and create.
+
 ## Time to Re-Re-Re-Restart the Process
 
 Scattered throughout this site, you'll find more than one starting point. Some from old copies of content, some while I was trying to get changed over to another platform, and some just because I wrote it and wanted to keep it. This is another one of those starting points.
@@ -14,6 +19,7 @@ There will be a lot of changes to the setup while I sort things out. Not that an
 ## Starting Points
 
 - Want to start at the beginning? See [[notes/2017/In the Middle\|In the Middle]]
+- For the version of the site you're seeing, check out [[notes/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 
 ## All Posted Notes
 (newest to oldest)
