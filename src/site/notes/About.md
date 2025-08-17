@@ -62,7 +62,7 @@ Why, you may ask? It was because the person "in charge" of IT on-site at the tim
 
 Finally getting not only motivation, but a platform to use after trying out several. The biggest issue was friction of getting updates to "the right place" which usually meant my desktop.
 
-Currently using [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), which works great with my existing [[input/learn/Obsidian\|Obsidian]] workflow and setup. Paired with [[git\|git]] and [[input/dev/Vercel\|Vercel]], it's clean and works as well as I need it to. Bonus, it works on mobile which some other [[reference/2025/Static Site Generator\|SSG]] setups didn't handle the way I wanted.
+Currently using [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), which works great with my existing [[input/learn/Obsidian\|Obsidian]] workflow and setup. Paired with [[input/dev/git\|git]] and [[input/dev/Vercel\|Vercel]], it's clean and works as well as I need it to. Bonus, it works on mobile which some other [[reference/2025/Static Site Generator\|SSG]] setups didn't handle the way I wanted.
 
 ## The Technology Behind It
 

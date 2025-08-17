@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-16T13:22:38-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-16T14:16:13-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
@@ -21,7 +21,7 @@ There will be a lot of changes to the setup while I sort things out. Not that an
 - Want to start at the beginning? See [[output/write/2017/In the Middle\|In the Middle]]
 - For the version of the site you're seeing, check out [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 
-## All Posted Notes
+## Last 10 Posted Notes
 (newest to oldest)
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 - [[output/write/2025/Read and Read\|Read and Read]]
@@ -33,30 +33,5 @@ There will be a lot of changes to the setup while I sort things out. Not that an
 - [[output/write/2021/Not a Break, No Really\|Not a Break, No Really]]
 - [[output/write/2021/Break. Fix. Repeat\|Break. Fix. Repeat]]
 - [[output/write/2021/Testing is Important\|Testing is Important]]
-- [[output/write/2021/Pick Up the Mic\|Pick Up the Mic]]
-- [[output/write/2021/The First Vacation\|The First Vacation]]
-- [[output/write/2021/And Here We Are\|And Here We Are]]
-- [[output/write/2021/By the Third\|By the Third]]
-- [[output/write/2021/Bloody Hell\|Bloody Hell]]
-- [[output/write/2021/A Fine Mess\|A Fine Mess]]
-- [[output/write/2018/Seeing Some Green Outside\|Seeing Some Green Outside]]
-- [[output/write/2018/Digging Out of an Issue\|Digging Out of an Issue]]
-- [[output/write/2018/The Mental Traffic Jam\|The Mental Traffic Jam]]
-- [[output/write/2017/LeVar Burton Reads\|LeVar Burton Reads]]
-- [[output/write/2017/Write That Down\|Write That Down]]
-- [[output/write/2017/The Command Line Podcast\|The Command Line Podcast]]
-- [[output/write/2017/11+ Podcasts I Follow\|11+ Podcasts I Follow]]
-- [[output/write/2017/What Did I Get Myself Into\|What Did I Get Myself Into]]
-- [[output/write/2017/Ten Years of Beard\|Ten Years of Beard]]
-- [[output/write/2017/Laying it Out\|Laying it Out]]
-- [[output/write/2017/These Things Take Time\|These Things Take Time]]
-- [[output/write/2017/In the Middle\|In the Middle]]
-
-{ .block-language-dataview}
-## All Reference Notes
-- [[reference/2025/Personal Knowledge Management\|Personal Knowledge Management]]
-- [[reference/2025/spark\|spark]]
-- [[reference/2025/Static Site Generator\|Static Site Generator]]
-- [[reference/2025/Zettelkasten\|Zettelkasten]]
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"title":"Pick Up the Mic","description":"Using just the power of my voice!","date":"2021-07-09","tags":["voiceover","audio","recording"],"dg-publish":true,"created":"2021-07-09T11:38:42","updated":"2025-08-09T22:41:14-04:00","permalink":"/output/write/2021/pick-up-the-mic/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Pick Up the Mic","description":"Using just the power of my voice!","date":"2021-07-09","tags":["voiceover","audio","recording","projects"],"dg-publish":true,"created":"2021-07-09T11:38:42","updated":"2025-08-16T14:46:34-04:00","permalink":"/output/write/2021/pick-up-the-mic/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

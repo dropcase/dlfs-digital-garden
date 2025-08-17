@@ -1,5 +1,5 @@
 ---
-{"title":"11+ Podcasts I Follow","description":null,"date":"2017-08-08","tags":["podcasts","lists"],"dg-publish":true,"created":"2017-08-08T11:50:54","updated":"2025-08-09T22:21:53-04:00","permalink":"/output/write/2017/11-podcasts-i-follow/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"11+ Podcasts I Follow","description":null,"date":"2017-08-08","tags":["podcasts","lists"],"dg-publish":true,"created":"2017-08-08T11:50:54","updated":"2025-08-16T14:49:05-04:00","permalink":"/output/write/2017/11-podcasts-i-follow/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -13,10 +13,10 @@ In alphabetical order by name, with a direct link to the feed:
 
 - **99 Invisible**: http://feeds.99percentinvisible.org/99percentinvisible
 - **The Accidental Creative**: http://feeds.feedburner.com/accidentalcreative/podcast
-- **The Command Line Podcast**: http://feeds.thecommandline.net/cmdln-enhanced
+- **[[output/write/2017/The Command Line Podcast\|The Command Line Podcast]]**: http://feeds.thecommandline.net/cmdln-enhanced
 - **Freakonomics Radio**: http://feeds.feedburner.com/freakonomicsradio
 - **Imaginary Worlds**: http://imaginaryworlds.libsyn.com/rss
-- **LeVar Burton Reads**: https://rss.art19.com/levar-burton-reads
+- **[[output/write/2017/LeVar Burton Reads\|LeVar Burton Reads]]**: https://rss.art19.com/levar-burton-reads
 - **The Nerdist**: http://nerdist.libsyn.com/rss
 - **Side Hustle School**: http://feeds.feedburner.com/SideHustleSchool
 - **TANIS**: http://tanis.libsyn.com/rss
