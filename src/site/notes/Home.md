@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-16T14:16:13-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-18T16:31:54-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
@@ -23,6 +23,7 @@ There will be a lot of changes to the setup while I sort things out. Not that an
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/All Your Base Something Something\|All Your Base Something Something]]
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 - [[output/write/2025/Read and Read\|Read and Read]]
 - [[output/write/2022/Translating from My Head\|Translating from My Head]]
@@ -32,6 +33,5 @@ There will be a lot of changes to the setup while I sort things out. Not that an
 - [[output/write/2021/Feeling Autumnal\|Feeling Autumnal]]
 - [[output/write/2021/Not a Break, No Really\|Not a Break, No Really]]
 - [[output/write/2021/Break. Fix. Repeat\|Break. Fix. Repeat]]
-- [[output/write/2021/Testing is Important\|Testing is Important]]
 
 { .block-language-dataview}
