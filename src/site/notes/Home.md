@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-23T13:57:41-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-23T14:00:34-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
@@ -27,7 +27,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2021/Break. Fix. Repeat\|Break. Fix. Repeat]]
 
 { .block-language-dataview}
-![[Posting.base#Write]]
 ## Time to Re-Re-Re-Restart the Process
 
 Scattered throughout this site, you'll find more than one starting point. Some from old copies of content, some while I was trying to get changed over to another platform, and some just because I wrote it and wanted to keep it. This is another one of those starting points.
