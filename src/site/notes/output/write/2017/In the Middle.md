@@ -1,5 +1,5 @@
 ---
-{"title":"In the Middle","description":null,"date":"2017-06-22","tags":["status","learn","hexo","markdown","pre-11ty","archive"],"dg-publish":true,"created":"2017-06-22T11:38:42","updated":"2025-08-11T12:39:33-04:00","permalink":"/output/write/2017/in-the-middle/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"In the Middle","description":null,"date":"2017-06-22","tags":["archive","hexo","learn","markdown","pre-11ty","status"],"dg-publish":true,"created":"2017-06-22T11:38:42","updated":"2025-08-11T12:39:33-04:00","permalink":"/output/write/2017/in-the-middle/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 ## It's Not the Beginning

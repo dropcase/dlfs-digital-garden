@@ -1,5 +1,5 @@
 ---
-{"title":"Bloody Hell","description":"Sometimes progress isn't forward.","date":"2021-06-01","tags":["status","git","GitHub","Eleventy","yet-another","alternatives","SSG"],"dg-publish":true,"created":"2021-06-01T11:38:42","updated":"2025-08-11T12:40:26-04:00","permalink":"/output/write/2021/bloody-hell/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Bloody Hell","description":"Sometimes progress isn't forward.","date":"2021-06-01","tags":["alternatives","Eleventy","git","GitHub","SSG","status","yet-another"],"dg-publish":true,"created":"2021-06-01T11:38:42","updated":"2025-08-11T12:40:26-04:00","permalink":"/output/write/2021/bloody-hell/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 So far I've been learning about how [[input/learn/Eleventy\|Eleventy]] works, and I like it. Straightforward, pretty much javascript-driven [[reference/2025/Static Site Generator\|SSG]]. My workflow to get new pages needs some attention, but there's plenty I have to talk about. The progress is the story around __getting__ to where I'm writing again, using Eleventy.

@@ -1,5 +1,5 @@
 ---
-{"title":"What Did I Get Myself Into?","description":null,"date":"2017-08-02","tags":["writing","status"],"dg-publish":true,"created":"2017-08-02T11:38:42","updated":"2025-08-05T15:39:02-04:00","permalink":"/output/write/2017/what-did-i-get-myself-into/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"What Did I Get Myself Into?","description":null,"date":"2017-08-02","tags":["status","writing"],"dg-publish":true,"created":"2017-08-02T11:38:42","updated":"2025-08-05T15:39:02-04:00","permalink":"/output/write/2017/what-did-i-get-myself-into/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

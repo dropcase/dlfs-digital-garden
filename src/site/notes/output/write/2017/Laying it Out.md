@@ -1,5 +1,5 @@
 ---
-{"title":"Laying it Out","description":null,"date":"2017-06-30","tags":["hexo","webdev","spark","SSG"],"dg-publish":true,"created":"2017-06-30T11:38:42","updated":"2025-08-09T22:22:27-04:00","permalink":"/output/write/2017/laying-it-out/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Laying it Out","description":null,"date":"2017-06-30","tags":["hexo","spark","SSG","webdev"],"dg-publish":true,"created":"2017-06-30T11:38:42","updated":"2025-08-09T22:22:27-04:00","permalink":"/output/write/2017/laying-it-out/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

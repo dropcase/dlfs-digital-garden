@@ -1,5 +1,5 @@
 ---
-{"title":"Perfect is the Enemy of Good Enough","description":"I mean, obviously right?","date":"2025-08-10","tags":["ponder","mentality","webdev","projects"],"dg-publish":true,"created":"2025-08-10 20:11:08","updated":"2025-08-16T14:47:17-04:00","permalink":"/output/write/2025/perfect-is-the-enemy-of-good-enough/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Perfect is the Enemy of Good Enough","description":"I mean, obviously right?","date":"2025-08-10","tags":["Eleventy","mentality","ponder","projects","webdev"],"dg-publish":true,"created":"2025-08-10 20:11:08","updated":"2025-08-22T14:04:07-04:00","permalink":"/output/write/2025/perfect-is-the-enemy-of-good-enough/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 I did it, finally got back up and running on the domain I've had for _checks watch_ 22 years as of this past May. This post was almost called `Even Small Steps Make Progress` but it felt like it was missing something in the point.

@@ -1,5 +1,5 @@
 ---
-{"title":"The Command Line Podcast","description":null,"date":"2017-08-10","tags":["podcasts","technology","hacking"],"dg-publish":true,"created":"2017-08-10T11:38:42","updated":"2025-08-09T22:43:13-04:00","permalink":"/output/write/2017/the-command-line-podcast/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"The Command Line Podcast","description":null,"date":"2017-08-10","tags":["hacking","podcasts","technology"],"dg-publish":true,"created":"2017-08-10T11:38:42","updated":"2025-08-09T22:43:13-04:00","permalink":"/output/write/2017/the-command-line-podcast/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 

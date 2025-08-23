@@ -1,5 +1,5 @@
 ---
-{"title":"And Another Thing!","description":"Or, I weigh my options","date":"2022-02-27","tags":["perspective","alternatives","writing","note-taking","platform"],"dg-publish":true,"created":"2022-02-27T11:38:42","updated":"2025-08-09T22:39:44-04:00","permalink":"/output/write/2022/and-another-thing/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"And Another Thing!","description":"Or, I weigh my options","date":"2022-02-27","tags":["alternatives","note-taking","perspective","platform","writing"],"dg-publish":true,"created":"2022-02-27T11:38:42","updated":"2025-08-09T22:39:44-04:00","permalink":"/output/write/2022/and-another-thing/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
