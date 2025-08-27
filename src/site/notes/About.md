@@ -1,5 +1,5 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-08-09T21:19:09-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-08-24T19:55:35-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -18,6 +18,19 @@ I like bullet points, especially my own.
 I like being able to connect - well, just about anything. People, ideas, systems, patterns, all of it.
 
 Being a whole and healthy person takes a __lot__ of work. Maybe I'll get there someday.
+
+## The Technology Behind It
+
+Here's what I'm using for this iteration (in alphabetical order, except for the last one):
+
+- [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), easy and straightforward way for me to write and get stuff updated
+- [Git](https://git-scm.com/), mostly on Windows using Git bash
+- [[input/dev/GitHub\|GitHub]], repo holder, and hosting
+- [[input/learn/Eleventy\|Eleventy]], a nice & simple Static Site Generator
+- [Markdown](https://daringfireball.net/projects/markdown/), easy to read and use for formatting
+- [[input/learn/Obsidian\|Obsidian]], to write and connect and add functionality
+	- I might add the plugins I'm using for this too, I tried to keep it as short a list as possible and only added as I ran into something I needed
+- my brain, a chunk of wrinkled gray matter in my skull
 
 ## Frequently Asked Questions^f7a398
 
@@ -64,13 +77,3 @@ Finally getting not only motivation, but a platform to use after trying out seve
 
 Currently using [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), which works great with my existing [[input/learn/Obsidian\|Obsidian]] workflow and setup. Paired with [[input/dev/git\|git]] and [[input/dev/Vercel\|Vercel]], it's clean and works as well as I need it to. Bonus, it works on mobile which some other [[reference/2025/Static Site Generator\|SSG]] setups didn't handle the way I wanted.
 
-## The Technology Behind It
-
-Here's what I'm using for this iteration (in alphabetical order, except for the last one):
-
-- [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), easy and straightforward way for me to write and get stuff updated
-- [Git](https://git-scm.com/), mostly on Windows using Git bash
-- [[input/dev/GitHub\|GitHub]], repo holder, and hosting
-- [[input/learn/Eleventy\|Eleventy]], a nice & simple Static Site Generator
-- [Markdown](https://daringfireball.net/projects/markdown/)
-- my brain, a chunk of wrinkled gray matter in my skull
