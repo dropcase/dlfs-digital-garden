@@ -1,5 +1,5 @@
 ---
-{"title":"Input Helps the Output","description":"All directions, not a one-way street","date":"2025-08-27","tags":["reading","writing","creativity"],"dg-publish":true,"created":"2025-08-27 11:04:23","updated":"2025-08-27T11:35:37-04:00","permalink":"/output/write/2025/input-helps-the-output/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Input Helps the Output","description":"All directions, not a one-way street","date":"2025-08-27","tags":["reading","writing","creativity"],"dg-publish":true,"created":"2025-08-27 11:04:23","updated":"2025-08-27T11:36:31-04:00","permalink":"/output/write/2025/input-helps-the-output/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 ## It's Like Fuel, ish
