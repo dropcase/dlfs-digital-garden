@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-08-23T14:00:34-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-02T14:08:34-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # First, Welcome
@@ -15,6 +15,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/Input Helps the Output\|Input Helps the Output]]
 - [[output/write/2025/All Your Base Something Something\|All Your Base Something Something]]
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 - [[output/write/2025/Read and Read\|Read and Read]]
@@ -24,7 +25,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2021/The Dark, and the Dark\|The Dark, and the Dark]]
 - [[output/write/2021/Feeling Autumnal\|Feeling Autumnal]]
 - [[output/write/2021/Not a Break, No Really\|Not a Break, No Really]]
-- [[output/write/2021/Break. Fix. Repeat\|Break. Fix. Repeat]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
