@@ -1,5 +1,5 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-04T00:09:02-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-04T00:52:41-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -30,6 +30,7 @@ Here's what I'm using for this iteration (in alphabetical order, except for the 
 - [Markdown](https://daringfireball.net/projects/markdown/), easy to read and use for formatting
 - [[input/learn/Obsidian\|Obsidian]], to write and connect and add functionality
 	- I might add the plugins I'm using for this too, I tried to keep it as short a list as possible and only added as I ran into something I needed
+- [[input/dev/Vercel\|Vercel]], the facilitator and processor to get what I write into static files and publish them
 - my brain, a chunk of wrinkled gray matter in my skull
 
 ## Frequently Asked Questions
