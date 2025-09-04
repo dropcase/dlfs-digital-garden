@@ -1,11 +1,11 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-03T23:55:28-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-04T00:09:02-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
 ## Colophon
 
-Thanks for visiting. I'm Dave, lifelong geek, family man, and bearded since 2007. Professionally I work as a Technical Account Manager for [Twilio](https://www.twilio.com/). Personally (and informally at work) I'm also a Tech Evangelist / Advocate - I like showing people new technology and getting them excited about using it.
+Thanks for visiting. I'm Dave, lifelong geek. Professionally I work as a Technical Account Manager for [Twilio](https://www.twilio.com/). Personally (and informally at work) I'm also a Tech Evangelist / Advocate - I like showing people new technology and getting them excited about using it.
 
 ### Off the top of my head
 
@@ -34,8 +34,8 @@ Here's what I'm using for this iteration (in alphabetical order, except for the 
 
 ## Frequently Asked Questions
 
-**Q**: What? Why would you share that? (you might think)
-**A**: The thing is, one I don't expect that very many (if any at all) end up reading this. Secondly, I don't really care what your judgment is. I wanted to share and anyone who resonates with it will connect with it in their own way.
+**Q**: **What? Why would you share that?** (you might think)
+**A**: The thing is, one I don't expect that very many (if any at all) end up reading this. Secondly, I wanted to share and anyone who resonates with it will connect with it in their own way.
 
 ## The Story
 
@@ -49,7 +49,7 @@ Instead, I'll provide the elevator pitch version:
 
 For any questions, comments, or advice, email me:
 
-dl[at]dropcase[dot]com
+d[at]dropcase[dot]com
 
 ----------
 
