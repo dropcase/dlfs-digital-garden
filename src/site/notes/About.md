@@ -1,5 +1,5 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-03T23:53:13-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-03T23:55:28-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -32,7 +32,7 @@ Here's what I'm using for this iteration (in alphabetical order, except for the 
 	- I might add the plugins I'm using for this too, I tried to keep it as short a list as possible and only added as I ran into something I needed
 - my brain, a chunk of wrinkled gray matter in my skull
 
-## Frequently Asked Questions^FAQ
+## Frequently Asked Questions
 
 **Q**: What? Why would you share that? (you might think)
 **A**: The thing is, one I don't expect that very many (if any at all) end up reading this. Secondly, I don't really care what your judgment is. I wanted to share and anyone who resonates with it will connect with it in their own way.
