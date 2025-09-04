@@ -1,8 +1,8 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-02T14:08:34-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-03T23:38:12-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
-# First, Welcome
+# Oh, Hello
 
 I'm Dave, aka dropcase. This is the latest version of the site, and more closely aligned with how my brain works. More on that later though, unless you want to jump into [[reference/2025/Personal Knowledge Management\|PKM]] and [[input/learn/Obsidian\|Obsidian]].
 
