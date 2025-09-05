@@ -15,6 +15,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/A Turtle Year\|A Turtle Year]]
 - [[output/write/2025/Input Helps the Output\|Input Helps the Output]]
 - [[output/write/2025/All Your Base Something Something\|All Your Base Something Something]]
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
@@ -24,7 +25,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2022/Yes, Try Again\|Yes, Try Again]]
 - [[output/write/2021/The Dark, and the Dark\|The Dark, and the Dark]]
 - [[output/write/2021/Feeling Autumnal\|Feeling Autumnal]]
-- [[output/write/2021/Not a Break, No Really\|Not a Break, No Really]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
