@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-03T23:38:12-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-07T10:13:56-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # Oh, Hello
