@@ -1,11 +1,17 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-04T00:52:41-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-14T16:16:17-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
 ## Colophon
 
 Thanks for visiting. I'm Dave, lifelong geek. Professionally I work as a Technical Account Manager for [Twilio](https://www.twilio.com/). Personally (and informally at work) I'm also a Tech Evangelist / Advocate - I like showing people new technology and getting them excited about using it.
+
+### Make Contact
+
+For any questions, comments, or advice, email me:
+
+d[at]dropcase[dot]com
 
 ### Off the top of my head
 
@@ -47,10 +53,6 @@ This is where I explain to you who I am, what I'm about, and some stuff about th
 Instead, I'll provide the elevator pitch version:
 
 > I started dropcase.com in May 2003 with the hope of building a site that people liked to visit and read as much as I enjoyed creating. It went through a bunch of iterations, including sitting idle for all too long. At one point my host disappeared off the Internet, so I've moved things to a more stable platform.
-
-For any questions, comments, or advice, email me:
-
-d[at]dropcase[dot]com
 
 ----------
 
