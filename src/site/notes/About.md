@@ -1,5 +1,5 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-14T16:16:17-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-16T19:16:27-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -19,8 +19,6 @@ I've used `dropcase` as my online name since 2003.
 
 Geek, family, beard, and more ways to show who I am. I am a person who enjoys technology, as well as being in nature.
 
-I like bullet points, especially my own.
-
 I like being able to connect - well, just about anything. People, ideas, systems, patterns, all of it.
 
 Being a whole and healthy person takes a __lot__ of work. Maybe I'll get there someday.
@@ -31,7 +29,7 @@ Here's what I'm using for this iteration (in alphabetical order, except for the 
 
 - [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/), easy and straightforward way for me to write and get stuff updated
 - [Git](https://git-scm.com/), mostly on Windows using Git bash
-- [[input/dev/GitHub\|GitHub]], repo holder, and hosting
+- [[input/dev/GitHub\|GitHub]], current repo holder, and hosting
 - [[input/learn/Eleventy\|Eleventy]], a nice & simple Static Site Generator
 - [Markdown](https://daringfireball.net/projects/markdown/), easy to read and use for formatting
 - [[input/learn/Obsidian\|Obsidian]], to write and connect and add functionality
