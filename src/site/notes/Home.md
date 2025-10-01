@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-07T10:13:56-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-26T17:46:27-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # Oh, Hello
@@ -15,6 +15,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
 - [[output/write/2025/Wearing My Life\|Wearing My Life]]
 - [[output/write/2025/A Turtle Year\|A Turtle Year]]
 - [[output/write/2025/Input Helps the Output\|Input Helps the Output]]
@@ -24,7 +25,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2022/Translating from My Head\|Translating from My Head]]
 - [[output/write/2022/And Another Thing\|And Another Thing]]
 - [[output/write/2022/Yes, Try Again\|Yes, Try Again]]
-- [[output/write/2021/The Dark, and the Dark\|The Dark, and the Dark]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process

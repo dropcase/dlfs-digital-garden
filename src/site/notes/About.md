@@ -1,5 +1,5 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-16T19:16:27-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-26T17:46:27-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
