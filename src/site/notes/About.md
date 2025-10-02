@@ -1,5 +1,5 @@
 ---
-{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-09-26T17:46:27-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"About","description":"A bit on the site, me, and some history","date":"2025-08-09","tags":["updates"],"dg-publish":true,"created":"2025-08-04T19:55:52","updated":"2025-10-02T10:15:05-04:00","permalink":"/about/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -39,7 +39,7 @@ Here's what I'm using for this iteration (in alphabetical order, except for the 
 
 ## Frequently Asked Questions
 
-**Q**: **What? Why would you share that?** (you might think)
+**Q**: **What? Why would you share that?** (one might think)
 **A**: The thing is, one I don't expect that very many (if any at all) end up reading this. Secondly, I wanted to share and anyone who resonates with it will connect with it in their own way.
 
 ## The Story

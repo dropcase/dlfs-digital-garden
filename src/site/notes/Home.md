@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-09-26T17:46:27-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-10-02T10:14:19-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # Oh, Hello
@@ -12,6 +12,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 - Want to start at the beginning? See [[output/write/2017/In the Middle\|In the Middle]]
 - For the version of the site you're seeing, check out [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
+- For contact info and a bit of history of this site, the [[About\|About]] page should cover it
 
 ## Last 10 Posted Notes
 (newest to oldest)
