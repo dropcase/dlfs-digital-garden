@@ -16,6 +16,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/Self and Identity\|Self and Identity]]
 - [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
 - [[output/write/2025/Wearing My Life\|Wearing My Life]]
 - [[output/write/2025/A Turtle Year\|A Turtle Year]]
@@ -25,7 +26,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2025/Read and Read\|Read and Read]]
 - [[output/write/2022/Translating from My Head\|Translating from My Head]]
 - [[output/write/2022/And Another Thing\|And Another Thing]]
-- [[output/write/2022/Yes, Try Again\|Yes, Try Again]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process

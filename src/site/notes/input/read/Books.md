@@ -4,12 +4,14 @@
 
 ## What I've Read Lately
 
-| book                                                                 | Authors                                           | Finished           | Rating | Read? |
-| -------------------------------------------------------------------- | ------------------------------------------------- | ------------------ | ------ | ----- |
-| [[input/read/2025/Dark Matter (2016)\|Dark Matter (2016)]]        | <ul><li>[[Blake Crouch\\|Blake Crouch]]</li></ul> | September 07, 2025 | \-     | Y     |
-| [[input/read/2025/Golden Son (2015)\|Golden Son (2015)]]          | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul> | September 01, 2025 | \-     | Y     |
-| [[input/read/2025/Morning Star (2016)\|Morning Star (2016)]]      | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul> | September 01, 2025 | \-     | Y     |
-| [[input/read/2025/Red Rising (2014)\|Red Rising (2014)]]          | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul> | July 31, 2025      | 7.5    | Y     |
-| [[input/read/Red Rising Saga (series)\|Red Rising Saga (series)]] | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul> | \-                 | \-     | N     |
+| book                                                                            | Authors                                                     | Finished           | Rating | Read? |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------ | ----- |
+| [[input/read/2025/Dark Matter (2016)\|Dark Matter (2016)]]                   | <ul><li>[[Blake Crouch\\|Blake Crouch]]</li></ul>           | September 07, 2025 | \-     | Y     |
+| [[input/read/2025/Golden Son (2015)\|Golden Son (2015)]]                     | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul>           | August 19, 2025    | \-     | Y     |
+| [[input/read/2025/Morning Star (2016)\|Morning Star (2016)]]                 | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul>           | September 01, 2025 | \-     | Y     |
+| [[input/read/2025/Red Rising (2014)\|Red Rising (2014)]]                     | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul>           | July 31, 2025      | 7.5    | Y     |
+| [[input/read/2025/Two Truths and a Lie (2025)\|Two Truths and a Lie (2025)]] | <ul><li>[[Cory O'Brien\\|Cory O'Brien]]</li></ul>           | September 25, 2025 | \-     | Y     |
+| [[input/read/Red Rising Saga (series)\|Red Rising Saga (series)]]            | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul>           | \-                 | \-     | N     |
+| [[input/read/2025/The untethered soul (2007)\|The untethered soul (2007)]]   | <ul><li>[[Michael A. Singer\\|Michael A. Singer]]</li></ul> |                    | \-     | N     |
 
 { .block-language-dataview}
