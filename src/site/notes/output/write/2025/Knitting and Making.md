@@ -1,5 +1,5 @@
 ---
-{"title":"Knitting and Making","description":"Yarn and fiber art stuff in this case","date":"2025-11-03","tags":["knitting","creativity","hobby-chasing"],"dg-publish":true,"created":"2025-11-03 11:04:32","updated":"2025-11-03T11:34:35-05:00","permalink":"/output/write/2025/knitting-and-making/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Knitting and Making","description":"Yarn and fiber art stuff in this case","date":"2025-11-03","tags":["knitting","creativity","hobby-chasing"],"dg-publish":true,"created":"2025-11-03 11:04:32","updated":"2025-11-03T11:35:49-05:00","permalink":"/output/write/2025/knitting-and-making/","dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 I learned how to knit back in 2006, and really just messed around with things for a long time and made only a couple of things. A short-row hat, a _lot_ of swatches (often frogged shortly after), and a few other small things.
 
-Now that I'm in a different living situation and my kids are older, I've started getting back into knitting and actually making something. Part of it was related to talking to a close friend about knitting and his excitement - he'd love a cardigan!
+Now that I'm in a different living situation and my kids are older, I've started getting back into [[output/make/knitting\|knitting]] and actually making something. Part of it was related to talking to a close friend about knitting and his excitement - he'd love a cardigan!
 
 That's a bit larger than I want to take on yet, so I did some searching and ended up buying more yarn the next day (oops) after finding some good pattern ideas. It was BOGO 50% off! I also got a couple of skeins of [Wool-Ease® Thick & Quick® Yarn – Lion Brand Yarn](https://www.lionbrand.com/products/wool-ease-thick-and-quick-yarn) to make hats with.
 
