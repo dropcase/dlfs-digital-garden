@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-10-02T10:14:19-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-10-23T12:19:50-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # Oh, Hello
@@ -16,6 +16,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/Knitting and Making\|Knitting and Making]]
 - [[output/write/2025/Self and Identity\|Self and Identity]]
 - [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
 - [[output/write/2025/Wearing My Life\|Wearing My Life]]
@@ -25,7 +26,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 - [[output/write/2025/Read and Read\|Read and Read]]
 - [[output/write/2022/Translating from My Head\|Translating from My Head]]
-- [[output/write/2022/And Another Thing\|And Another Thing]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
