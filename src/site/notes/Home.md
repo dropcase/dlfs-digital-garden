@@ -16,6 +16,7 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2025/EOY 2025\|EOY 2025]]
 - [[output/write/2025/Knitting and Making\|Knitting and Making]]
 - [[output/write/2025/Self and Identity\|Self and Identity]]
 - [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
@@ -25,7 +26,6 @@ Very much a work in progress, there are a lot of holes to fill in with writing I
 - [[output/write/2025/All Your Base Something Something\|All Your Base Something Something]]
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
 - [[output/write/2025/Read and Read\|Read and Read]]
-- [[output/write/2022/Translating from My Head\|Translating from My Head]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
