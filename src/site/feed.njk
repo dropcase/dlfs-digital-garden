@@ -23,7 +23,7 @@
             <content type="html">
                 {{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>
-            <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" /////>
+            <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" ////>
         </entry>
     {%- endfor %}
 </feed>
