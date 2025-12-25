@@ -7,6 +7,7 @@
 | book                                                                                                | Authors                                                     | Finished           | Rating | Read? |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------ | ----- |
 | [[input/read/2025/Children of Time - Adrian Tchaikovsky\|Children of Time - Adrian Tchaikovsky]] | Adrian Tchaikovsky                                          | \-                 | \-     | Y     |
+| [[input/read/2025/Children of Time (2018)\|Children of Time (2018)]]                             | <ul><li>Adrian Tchaikovsky</li></ul>                        | November 23, 2025  | \-     | Y     |
 | [[input/read/2025/Dark Matter (2016)\|Dark Matter (2016)]]                                       | <ul><li>[[Blake Crouch\\|Blake Crouch]]</li></ul>           | September 07, 2025 | \-     | Y     |
 | [[input/read/2025/Golden Son (2015)\|Golden Son (2015)]]                                         | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul>           | August 19, 2025    | \-     | Y     |
 | [[input/read/2025/Morning Star (2016)\|Morning Star (2016)]]                                     | <ul><li>[[Pierce Brown\\|Pierce Brown]]</li></ul>           | September 01, 2025 | \-     | Y     |
