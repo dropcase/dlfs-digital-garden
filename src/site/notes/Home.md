@@ -1,12 +1,12 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2025-11-18T11:46:32-05:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-01-04T17:39:17-05:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 # Oh, Hello
 
 I'm Dave, aka dropcase. This is the latest version of the site, and more closely aligned with how my brain works. More on that later though, unless you want to jump into [[reference/2025/Personal Knowledge Management\|PKM]] and [[input/learn/Obsidian\|Obsidian]].
 
-Very much a work in progress, there are a lot of holes to fill in with writing I've done and notes to fill out and create. I'll probably move and reorganize a few times until things settle into place.
+Very much a work in progress, even into 2026 now, and there are a lot of holes to fill in with writing I've done plus notes to fill out and create. I'll probably move and reorganize a few times until things settle into place.
 
 ## Starting Points
 
