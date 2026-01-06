@@ -16,6 +16,7 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2026/Systems vs Habits\|Systems vs Habits]]
 - [[output/write/2025/EOY 2025\|EOY 2025]]
 - [[output/write/2025/Knitting and Making\|Knitting and Making]]
 - [[output/write/2025/Self and Identity\|Self and Identity]]
@@ -25,7 +26,6 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 - [[output/write/2025/Input Helps the Output\|Input Helps the Output]]
 - [[output/write/2025/All Your Base Something Something\|All Your Base Something Something]]
 - [[output/write/2025/Perfect is the Enemy of Good Enough\|Perfect is the Enemy of Good Enough]]
-- [[output/write/2025/Read and Read\|Read and Read]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
