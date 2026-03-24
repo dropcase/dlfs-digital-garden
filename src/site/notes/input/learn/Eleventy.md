@@ -1,5 +1,5 @@
 ---
-{"title":"Eleventy","description":"a simpler static site generator","date":"2025-08-03","tags":["webdev","SSG"],"dg-publish":true,"created":"2025-08-03T15:57:42","updated":"2025-08-05T17:01:33-04:00","permalink":"/input/learn/eleventy/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Eleventy","description":"a simpler static site generator","date":"2025-08-03","tags":["webdev","SSG"],"dg-publish":true,"created":"2025-08-03T15:57:42","updated":"2025-08-05T17:01:33-04:00","permalink":"/input/learn/eleventy/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Eleventy","description":"a simpler static site generator","date":"2025-08-03","tags":["webdev","SSG"],"created":"2025-08-03T15:57:42","updated":"2025-08-05T17:01:33-04:00"}}
 ---
 
 

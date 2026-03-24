@@ -1,5 +1,5 @@
 ---
-{"title":"Systems vs Habits","description":"Why building systems tend to work better for me than trying to build habits","date":"2026-01-06","tags":["systems","habits"],"updated":"2026-02-27T12:31:42-05:00","created":"2026-01-06 16:08:53","dg-publish":true,"permalink":"/output/write/2026/systems-vs-habits/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Systems vs Habits","description":"Why building systems tend to work better for me than trying to build habits","date":"2026-01-06","tags":["systems","habits"],"updated":"2026-02-27T12:31:42-05:00","created":"2026-01-06 16:08:53","dg-publish":true,"permalink":"/output/write/2026/systems-vs-habits/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Systems vs Habits","description":"Why building systems tend to work better for me than trying to build habits","date":"2026-01-06","tags":["systems","habits"],"updated":"2026-02-27T12:31:42-05:00","created":"2026-01-06 16:08:53"}}
 ---
 
 ## Yes, There's Gray Area

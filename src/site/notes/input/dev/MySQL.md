@@ -1,5 +1,5 @@
 ---
-{"title":"MySQL","description":null,"date":"2025-08-09","tags":["webdev","database"],"dg-publish":true,"created":"2025-08-09 18:58:41","updated":"2025-08-09T19:02:14-04:00","permalink":"/input/dev/my-sql/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"MySQL","description":null,"date":"2025-08-09","tags":["webdev","database"],"dg-publish":true,"created":"2025-08-09 18:58:41","updated":"2025-08-09T19:02:14-04:00","permalink":"/input/dev/my-sql/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"MySQL","description":null,"date":"2025-08-09","tags":["webdev","database"],"created":"2025-08-09 18:58:41","updated":"2025-08-09T19:02:14-04:00"}}
 ---
 
 **Home**: [MySQL](https://www.mysql.com/)

@@ -1,5 +1,5 @@
 ---
-{"title":"Trakt","description":null,"date":"2025-08-09","tags":["metrics","tracking"],"dg-publish":true,"created":"2025-08-09 20:28:27","updated":"2025-08-09T21:03:02-04:00","permalink":"/input/learn/trakt/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Trakt","description":null,"date":"2025-08-09","tags":["metrics","tracking"],"dg-publish":true,"created":"2025-08-09 20:28:27","updated":"2025-08-09T21:03:02-04:00","permalink":"/input/learn/trakt/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Trakt","description":null,"date":"2025-08-09","tags":["metrics","tracking"],"created":"2025-08-09 20:28:27","updated":"2025-08-09T21:03:02-04:00"}}
 ---
 
 **Home**: [Discover. Track. Share. - Trakt](https://trakt.tv/)

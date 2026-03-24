@@ -1,5 +1,5 @@
 ---
-{"title":"Self and Identity","description":"Who are you? Not the labels, not the thoughts, further in","date":"2025-10-14","tags":["consciousness","identity","mentality"],"dg-publish":true,"created":"2025-10-14 20:40:31","updated":"2025-10-15T13:58:50-04:00","permalink":"/output/write/2025/self-and-identity/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Self and Identity","description":"Who are you? Not the labels, not the thoughts, further in","date":"2025-10-14","tags":["consciousness","identity","mentality"],"dg-publish":true,"created":"2025-10-14 20:40:31","updated":"2025-10-15T13:58:50-04:00","permalink":"/output/write/2025/self-and-identity/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Self and Identity","description":"Who are you? Not the labels, not the thoughts, further in","date":"2025-10-14","tags":["consciousness","identity","mentality"],"created":"2025-10-14 20:40:31","updated":"2025-10-15T13:58:50-04:00"}}
 ---
 
 

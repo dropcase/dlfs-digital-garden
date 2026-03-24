@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-02-27T12:38:12-05:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-03-24T17:34:33-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Home","headline":"Welcome to the Geekdrome","date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-03-24T17:34:33-04:00"}}
 ---
 
 # Oh, Hello
@@ -16,6 +16,7 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2026/Spring-ing Time\|Spring-ing Time]]
 - [[output/write/2026/Creativity from Boredom\|Creativity from Boredom]]
 - [[output/write/2026/Pike Street Hat - Knit Pattern\|Pike Street Hat - Knit Pattern]]
 - [[output/write/2026/Systems vs Habits\|Systems vs Habits]]
@@ -25,7 +26,6 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 - [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
 - [[output/write/2025/Wearing My Life\|Wearing My Life]]
 - [[output/write/2025/A Turtle Year\|A Turtle Year]]
-- [[output/write/2025/Input Helps the Output\|Input Helps the Output]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process

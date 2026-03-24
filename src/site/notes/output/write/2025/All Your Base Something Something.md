@@ -1,5 +1,5 @@
 ---
-{"title":"All Your Base Something Something","description":"Belong to *someone* probably","date":"2025-08-18","tags":["obsidian","PKM"],"dg-publish":true,"created":"2025-08-18 17:06:18","updated":"2025-08-23T14:01:48-04:00","permalink":"/output/write/2025/all-your-base-something-something/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"All Your Base Something Something","description":"Belong to *someone* probably","date":"2025-08-18","tags":["obsidian","PKM"],"dg-publish":true,"created":"2025-08-18 17:06:18","updated":"2025-08-23T14:01:48-04:00","permalink":"/output/write/2025/all-your-base-something-something/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"All Your Base Something Something","description":"Belong to *someone* probably","date":"2025-08-18","tags":["obsidian","PKM"],"created":"2025-08-18 17:06:18","updated":"2025-08-23T14:01:48-04:00"}}
 ---
 
 ## It's Here, Really!

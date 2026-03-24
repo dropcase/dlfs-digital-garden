@@ -1,5 +1,5 @@
 ---
-{"title":"Books","description":"Sometimes paper, sometimes not","date":"2025-09-09","tags":["reading","books"],"dg-publish":true,"created":"2025-09-09 13:45:28","updated":"2025-11-25T12:16:33-05:00","permalink":"/input/read/books/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Books","description":"Sometimes paper, sometimes not","date":"2025-09-09","tags":["reading","books"],"dg-publish":true,"created":"2025-09-09 13:45:28","updated":"2025-11-25T12:16:33-05:00","permalink":"/input/read/books/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Books","description":"Sometimes paper, sometimes not","date":"2025-09-09","tags":["reading","books"],"created":"2025-09-09 13:45:28","updated":"2025-11-25T12:16:33-05:00"}}
 ---
 
 ## What I've Read Lately

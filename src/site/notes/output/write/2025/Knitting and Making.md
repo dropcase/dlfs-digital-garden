@@ -1,8 +1,8 @@
 ---
-{"title":"Knitting and Making","description":"Yarn and fiber art stuff in this case","date":"2025-11-03","tags":["knitting","creativity","hobby-chasing"],"dg-publish":true,"created":"2025-11-03 11:04:32","updated":"2025-12-16T12:35:22-05:00","permalink":"/output/write/2025/knitting-and-making/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Knitting and Making","description":"Yarn and fiber art stuff in this case","date":"2025-11-03","tags":["knitting","creativity","hobby-chasing"],"dg-publish":true,"created":"2025-11-03 11:04:32","updated":"2025-12-16T12:35:22-05:00","permalink":"/output/write/2025/knitting-and-making/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Knitting and Making","description":"Yarn and fiber art stuff in this case","date":"2025-11-03","tags":["knitting","creativity","hobby-chasing"],"created":"2025-11-03 11:04:32","updated":"2025-12-16T12:35:22-05:00"}}
 ---
 
-![love-heart.gif|350](/img/user/fs/2025/love-heart.gif)
+![love-heart.gif\|350](/img/user/fs/2025/love-heart.gif)
 ## Made it Myself
 
 I learned how to knit back in 2006, and really just messed around with things for a long time and made only a couple of things. A short-row hat, a _lot_ of swatches (often frogged shortly after), and a few other small things.

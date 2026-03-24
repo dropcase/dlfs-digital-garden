@@ -1,5 +1,5 @@
 ---
-{"title":"Ten Years of Beard","description":null,"date":"2017-07-14","tags":["beard","history","status"],"dg-publish":true,"created":"2017-07-14T11:38:42","updated":"2025-08-05T15:38:18-04:00","permalink":"/output/write/2017/ten-years-of-beard/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Ten Years of Beard","description":null,"date":"2017-07-14","tags":["beard","history","status"],"dg-publish":true,"created":"2017-07-14T11:38:42","updated":"2025-08-05T15:38:18-04:00","permalink":"/output/write/2017/ten-years-of-beard/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Ten Years of Beard","description":null,"date":"2017-07-14","tags":["beard","history","status"],"created":"2017-07-14T11:38:42","updated":"2025-08-05T15:38:18-04:00"}}
 ---
 
 

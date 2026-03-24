@@ -1,5 +1,5 @@
 ---
-{"title":"A Turtle Year","description":"slow going, right?","tags":["perspective","progress","writing"],"date":"2025-09-04","dg-publish":true,"created":"2025-09-04 20:45:15","updated":"2025-09-09T16:18:37-04:00","permalink":"/output/write/2025/a-turtle-year/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"A Turtle Year","description":"slow going, right?","tags":["perspective","progress","writing"],"date":"2025-09-04","dg-publish":true,"created":"2025-09-04 20:45:15","updated":"2025-09-09T16:18:37-04:00","permalink":"/output/write/2025/a-turtle-year/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"A Turtle Year","description":"slow going, right?","tags":["perspective","progress","writing"],"date":"2025-09-04","created":"2025-09-04 20:45:15","updated":"2025-09-09T16:18:37-04:00"}}
 ---
 
 ## Sorry, A What?

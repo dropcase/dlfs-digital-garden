@@ -1,5 +1,5 @@
 ---
-{"title":"kepano","description":"aka Steph Ango, aka the CEO of Obsidian","date":"2025-08-18","tags":["people","obsidian","PKM"],"dg-publish":true,"created":"2025-08-18 19:58:53","updated":"2025-09-04T00:45:28-04:00","aliases":["Steph Ango"],"permalink":"/input/follow/kepano/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"kepano","description":"aka Steph Ango, aka the CEO of Obsidian","date":"2025-08-18","tags":["people","obsidian","PKM"],"dg-publish":true,"created":"2025-08-18 19:58:53","updated":"2025-09-04T00:45:28-04:00","aliases":["Steph Ango"],"permalink":"/input/follow/kepano/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"kepano","description":"aka Steph Ango, aka the CEO of Obsidian","date":"2025-08-18","tags":["people","obsidian","PKM"],"created":"2025-08-18 19:58:53","updated":"2025-09-04T00:45:28-04:00","aliases":["Steph Ango"]}}
 ---
 
 **Home**: [Steph Ango](https://stephango.com/)

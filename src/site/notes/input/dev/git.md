@@ -1,5 +1,5 @@
 ---
-{"title":"git","description":"Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.","date":"2025-08-16","tags":["git","version-control","backups","development"],"dg-publish":true,"created":"2025-08-16 14:40:39","updated":"2025-08-16T14:45:48-04:00","permalink":"/input/dev/git/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"git","description":"Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.","date":"2025-08-16","tags":["git","version-control","backups","development"],"dg-publish":true,"created":"2025-08-16 14:40:39","updated":"2025-08-16T14:45:48-04:00","permalink":"/input/dev/git/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"git","description":"Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.","date":"2025-08-16","tags":["git","version-control","backups","development"],"created":"2025-08-16 14:40:39","updated":"2025-08-16T14:45:48-04:00"}}
 ---
 
 **Home**: [Git](https://git-scm.com/)

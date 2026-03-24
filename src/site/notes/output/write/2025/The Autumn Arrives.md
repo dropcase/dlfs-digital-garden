@@ -1,5 +1,5 @@
 ---
-{"title":"The Autumn Arrives","description":"I may miss some of summer, then again the change is nice","date":"2025-09-26","tags":["seasons","changes","outdoors"],"dg-publish":true,"created":"2025-09-26 17:55:02","updated":"2025-10-02T10:12:53-04:00","permalink":"/output/write/2025/the-autumn-arrives/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"The Autumn Arrives","description":"I may miss some of summer, then again the change is nice","date":"2025-09-26","tags":["seasons","changes","outdoors"],"dg-publish":true,"created":"2025-09-26 17:55:02","updated":"2025-10-02T10:12:53-04:00","permalink":"/output/write/2025/the-autumn-arrives/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"The Autumn Arrives","description":"I may miss some of summer, then again the change is nice","date":"2025-09-26","tags":["seasons","changes","outdoors"],"created":"2025-09-26 17:55:02","updated":"2025-10-02T10:12:53-04:00"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","description":null,"date":"2025-08-16","tags":["external","digital-garden","obsidian"],"dg-publish":true,"created":"2025-08-16 13:06:02","updated":"2025-08-23T14:05:16-04:00","permalink":"/input/follow/the-threshold/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"The Threshold","description":null,"date":"2025-08-16","tags":["external","digital-garden","obsidian"],"dg-publish":true,"created":"2025-08-16 13:06:02","updated":"2025-08-23T14:05:16-04:00","permalink":"/input/follow/the-threshold/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"The Threshold","description":null,"date":"2025-08-16","tags":["external","digital-garden","obsidian"],"created":"2025-08-16 13:06:02","updated":"2025-08-23T14:05:16-04:00"}}
 ---
 
 **Home**: [The Threshold](https://hermitage.utsob.me/)

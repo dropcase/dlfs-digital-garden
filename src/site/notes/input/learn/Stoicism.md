@@ -1,5 +1,5 @@
 ---
-{"title":"Stoicism","description":null,"date":"2025-08-27","tags":["stoicism","philosophy"],"dg-publish":true,"created":"2025-08-27 11:19:45","updated":"2025-08-27T11:31:52-04:00","permalink":"/input/learn/stoicism/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Stoicism","description":null,"date":"2025-08-27","tags":["stoicism","philosophy"],"dg-publish":true,"created":"2025-08-27 11:19:45","updated":"2025-08-27T11:31:52-04:00","permalink":"/input/learn/stoicism/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Stoicism","description":null,"date":"2025-08-27","tags":["stoicism","philosophy"],"created":"2025-08-27 11:19:45","updated":"2025-08-27T11:31:52-04:00"}}
 ---
 
 **Wikipedia**: [Stoicism - Wikipedia](https://en.wikipedia.org/wiki/Stoicism)

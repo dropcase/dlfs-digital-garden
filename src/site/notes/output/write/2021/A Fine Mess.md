@@ -1,5 +1,5 @@
 ---
-{"title":"A Fine Mess","description":"It could've been the alternate name for the site.","date":"2021-05-27","tags":["history","yet-another"],"dg-publish":true,"created":"2021-05-27T11:38:42","updated":"2025-08-09T22:18:11-04:00","permalink":"/output/write/2021/a-fine-mess/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"A Fine Mess","description":"It could've been the alternate name for the site.","date":"2021-05-27","tags":["history","yet-another"],"dg-publish":true,"created":"2021-05-27T11:38:42","updated":"2025-08-09T22:18:11-04:00","permalink":"/output/write/2021/a-fine-mess/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"A Fine Mess","description":"It could've been the alternate name for the site.","date":"2021-05-27","tags":["history","yet-another"],"created":"2021-05-27T11:38:42","updated":"2025-08-09T22:18:11-04:00"}}
 ---
 
 It was a fine day about 18 years ago when I first decided to register [dropcase.com](http://www.dropcase.com). I couldn't tell you what day it was, only that I know when I have to renew so that was the "official" date.

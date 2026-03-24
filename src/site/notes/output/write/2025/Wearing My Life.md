@@ -1,5 +1,5 @@
 ---
-{"title":"Wearing My Life","description":"It's a personal choice","date":"2025-09-08","tags":["aging","growth","mentality","nature"],"dg-publish":true,"created":"2025-09-08 16:56:19","updated":"2025-09-09T12:44:42-04:00","permalink":"/output/write/2025/wearing-my-life/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Wearing My Life","description":"It's a personal choice","date":"2025-09-08","tags":["aging","growth","mentality","nature"],"dg-publish":true,"created":"2025-09-08 16:56:19","updated":"2025-09-09T12:44:42-04:00","permalink":"/output/write/2025/wearing-my-life/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Wearing My Life","description":"It's a personal choice","date":"2025-09-08","tags":["aging","growth","mentality","nature"],"created":"2025-09-08 16:56:19","updated":"2025-09-09T12:44:42-04:00"}}
 ---
 
 ## Like a Badge, or a Blanket

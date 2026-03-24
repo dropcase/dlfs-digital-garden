@@ -1,5 +1,5 @@
 ---
-{"title":"Read and Read","description":"They're not the same thing","date":"2025-08-05","tags":["metrics","reading","tracking"],"dg-publish":true,"created":"2025-08-05 17:00:45","updated":"2025-08-11T12:47:44-04:00","permalink":"/output/write/2025/read-and-read/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Read and Read","description":"They're not the same thing","date":"2025-08-05","tags":["metrics","reading","tracking"],"dg-publish":true,"created":"2025-08-05 17:00:45","updated":"2025-08-11T12:47:44-04:00","permalink":"/output/write/2025/read-and-read/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Read and Read","description":"They're not the same thing","date":"2025-08-05","tags":["metrics","reading","tracking"],"created":"2025-08-05 17:00:45","updated":"2025-08-11T12:47:44-04:00"}}
 ---
 
 ## Where it Started and Where it Went

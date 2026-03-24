@@ -1,5 +1,5 @@
 ---
-{"title":"StoryGraph","description":"Because life's too short for a book you're not in the mood for","date":"2025-08-05","tags":["reading","metrics","tracking"],"dg-publish":true,"created":"2025-08-05 16:55:30","updated":"2025-08-05T16:56:10-04:00","permalink":"/input/learn/story-graph/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"StoryGraph","description":"Because life's too short for a book you're not in the mood for","date":"2025-08-05","tags":["reading","metrics","tracking"],"dg-publish":true,"created":"2025-08-05 16:55:30","updated":"2025-08-05T16:56:10-04:00","permalink":"/input/learn/story-graph/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"StoryGraph","description":"Because life's too short for a book you're not in the mood for","date":"2025-08-05","tags":["reading","metrics","tracking"],"created":"2025-08-05 16:55:30","updated":"2025-08-05T16:56:10-04:00"}}
 ---
 
 Home: [The StoryGraph \| Because life's too short for a book you're not in the mood for](https://thestorygraph.com/)

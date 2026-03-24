@@ -1,5 +1,5 @@
 ---
-{"title":"knitting","description":"One way to make yarn into something else","date":"2025-11-03","tags":["knitting","making","hobby-chasing","creativity"],"dg-publish":true,"created":"2025-11-03 11:36:01","updated":"2025-11-03T11:40:55-05:00","permalink":"/output/make/knitting/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"knitting","description":"One way to make yarn into something else","date":"2025-11-03","tags":["knitting","making","hobby-chasing","creativity"],"dg-publish":true,"created":"2025-11-03 11:36:01","updated":"2025-11-03T11:40:55-05:00","permalink":"/output/make/knitting/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"knitting","description":"One way to make yarn into something else","date":"2025-11-03","tags":["knitting","making","hobby-chasing","creativity"],"created":"2025-11-03 11:36:01","updated":"2025-11-03T11:40:55-05:00"}}
 ---
 
 ## My Own History

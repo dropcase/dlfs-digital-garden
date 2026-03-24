@@ -1,5 +1,5 @@
 ---
-{"title":"Not a Break, No Really!","description":"ok maybe I was busy too","date":"2021-09-17","tags":["Eleventy","writing"],"dg-publish":true,"created":"2021-09-17T11:38:42","updated":"2025-08-09T22:40:53-04:00","permalink":"/output/write/2021/not-a-break-no-really/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Not a Break, No Really!","description":"ok maybe I was busy too","date":"2021-09-17","tags":["Eleventy","writing"],"dg-publish":true,"created":"2021-09-17T11:38:42","updated":"2025-08-09T22:40:53-04:00","permalink":"/output/write/2021/not-a-break-no-really/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Not a Break, No Really!","description":"ok maybe I was busy too","date":"2021-09-17","tags":["Eleventy","writing"],"created":"2021-09-17T11:38:42","updated":"2025-08-09T22:40:53-04:00"}}
 ---
 
 

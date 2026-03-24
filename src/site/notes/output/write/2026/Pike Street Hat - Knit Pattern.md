@@ -1,5 +1,5 @@
 ---
-{"title":"Pike Street Hat","description":"Free Pattern from Lion Brand, for Wool Ease Thick & Quick","date":"2026-01-11","tags":["notes"],"draft":true,"created":"2026-01-06 17:25:30","updated":"2026-01-11T13:50:12-05:00","dg-publish":true,"permalink":"/output/write/2026/pike-street-hat-knit-pattern/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Pike Street Hat","description":"Free Pattern from Lion Brand, for Wool Ease Thick & Quick","date":"2026-01-11","tags":["notes","knitting"],"draft":true,"created":"2026-01-06 17:25:30","updated":"2026-01-11T13:50:12-05:00","dg-publish":true,"permalink":"/output/write/2026/pike-street-hat-knit-pattern/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Pike Street Hat","description":"Free Pattern from Lion Brand, for Wool Ease Thick & Quick","date":"2026-01-11","tags":["notes","knitting"],"draft":true,"created":"2026-01-06 17:25:30","updated":"2026-01-11T13:50:12-05:00"}}
 ---
 
 ## One? I Made Two Already

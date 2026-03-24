@@ -1,5 +1,5 @@
 ---
-{"title":"Break. Fix. Repeat.","description":"I'll learn it someday, really","date":"2021-08-20","tags":["testing","webdev"],"dg-publish":true,"created":"2021-08-20T11:38:42","updated":"2025-08-09T22:39:51-04:00","permalink":"/output/write/2021/break-fix-repeat/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Break. Fix. Repeat.","description":"I'll learn it someday, really","date":"2021-08-20","tags":["testing","webdev"],"dg-publish":true,"created":"2021-08-20T11:38:42","updated":"2025-08-09T22:39:51-04:00","permalink":"/output/write/2021/break-fix-repeat/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Break. Fix. Repeat.","description":"I'll learn it someday, really","date":"2021-08-20","tags":["testing","webdev"],"created":"2021-08-20T11:38:42","updated":"2025-08-09T22:39:51-04:00"}}
 ---
 
 

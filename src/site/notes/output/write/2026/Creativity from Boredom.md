@@ -1,5 +1,5 @@
 ---
-{"title":"Creativity from Boredom","description":"Bored? Good! When there's less coming in, there can be a chance to let some creativity out","date":"2026-02-27","tags":["notes","creativity","time-management"],"updated":"2026-02-27T12:38:01-05:00","created":"2026-01-05T12:49:04-05:00","dg-publish":true,"permalink":"/output/write/2026/creativity-from-boredom/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Creativity from Boredom","description":"Bored? Good! When there's less coming in, there can be a chance to let some creativity out","tags":["creativity","notes","time-management"],"date":"2026-02-27","dg-publish":true,"created":"2026-01-05T12:49:04-05:00","updated":"2026-03-23T12:04:39-04:00","permalink":"/output/write/2026/creativity-from-boredom/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Creativity from Boredom","description":"Bored? Good! When there's less coming in, there can be a chance to let some creativity out","tags":["creativity","notes","time-management"],"date":"2026-02-27","created":"2026-01-05T12:49:04-05:00","updated":"2026-03-23T12:04:39-04:00"}}
 ---
 
 ## Note to Self

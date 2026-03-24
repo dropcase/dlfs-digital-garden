@@ -1,5 +1,5 @@
 ---
-{"title":"Netlify","description":"Deploy any modern frontend stack, from marketing sites to AI apps. Join millions of developers and teams shipping faster on Netlify.","date":"2025-08-09","tags":["webdev","hosting"],"dg-publish":true,"created":"2025-08-09 21:34:33","updated":"2025-08-09T21:36:25-04:00","permalink":"/input/dev/netlify/","dgPassFrontmatter":true,"noteIcon":"3"}
+{"title":"Netlify","description":"Deploy any modern frontend stack, from marketing sites to AI apps. Join millions of developers and teams shipping faster on Netlify.","date":"2025-08-09","tags":["webdev","hosting"],"dg-publish":true,"created":"2025-08-09 21:34:33","updated":"2025-08-09T21:36:25-04:00","permalink":"/input/dev/netlify/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Netlify","description":"Deploy any modern frontend stack, from marketing sites to AI apps. Join millions of developers and teams shipping faster on Netlify.","date":"2025-08-09","tags":["webdev","hosting"],"created":"2025-08-09 21:34:33","updated":"2025-08-09T21:36:25-04:00"}}
 ---
 
 **Home**: [Scale & Ship Faster with a Composable Web Architecture \| Netlify](https://www.netlify.com/)
