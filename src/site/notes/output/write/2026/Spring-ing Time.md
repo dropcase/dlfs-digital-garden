@@ -1,5 +1,5 @@
 ---
-{"title":"Spring-ing Time","description":"That taste of spring with the rug-pull is one helluva cycle","tags":["outdoors","weather","yet-another"],"date":"2026-03-24","dg-publish":true,"created":"2026-03-24 17:38:53","updated":"2026-03-24T17:47:41-04:00","permalink":"/output/write/2026/spring-ing-time/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Spring-ing Time","description":"That taste of spring with the rug-pull is one helluva cycle","tags":["outdoors","weather","yet-another"],"date":"2026-03-24","created":"2026-03-24 17:38:53","updated":"2026-03-24T17:47:41-04:00"}}
+{"title":"Spring-ing Time","description":"That taste of spring with the rug-pull is one helluva cycle","tags":["outdoors","weather","yet-another"],"date":"2026-03-24","dg-publish":true,"created":"2026-03-24 17:38:53","updated":"2026-05-12T14:27:56-04:00","permalink":"/output/write/2026/spring-ing-time/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Spring-ing Time","description":"That taste of spring with the rug-pull is one helluva cycle","tags":["outdoors","weather","yet-another"],"date":"2026-03-24","created":"2026-03-24 17:38:53","updated":"2026-05-12T14:27:56-04:00"}}
 ---
 
 ## Green Outside, Please

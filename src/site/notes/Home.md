@@ -1,5 +1,5 @@
 ---
-{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-03-24T17:34:33-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Home","headline":"Welcome to the Geekdrome","date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-03-24T17:34:33-04:00"}}
+{"title":"Home","headline":"Welcome to the Geekdrome","dg-publish":true,"dg-home":true,"date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-05-12T14:27:56-04:00","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Home","headline":"Welcome to the Geekdrome","date":"2025-08-05","created":"2025-08-05T18:40:00","updated":"2026-05-12T14:27:56-04:00"}}
 ---
 
 # Oh, Hello
@@ -16,6 +16,7 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2026/Moving isn't easy\|Moving isn't easy]]
 - [[output/write/2026/Spring-ing Time\|Spring-ing Time]]
 - [[output/write/2026/Creativity from Boredom\|Creativity from Boredom]]
 - [[output/write/2026/Pike Street Hat - Knit Pattern\|Pike Street Hat - Knit Pattern]]
@@ -25,7 +26,6 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 - [[output/write/2025/Self and Identity\|Self and Identity]]
 - [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
 - [[output/write/2025/Wearing My Life\|Wearing My Life]]
-- [[output/write/2025/A Turtle Year\|A Turtle Year]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
