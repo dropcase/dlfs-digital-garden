@@ -16,6 +16,7 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 
 ## Last 10 Posted Notes
 (newest to oldest)
+- [[output/write/2026/Movement of the Self\|Movement of the Self]]
 - [[output/write/2026/Moving isn't easy\|Moving isn't easy]]
 - [[output/write/2026/Spring-ing Time\|Spring-ing Time]]
 - [[output/write/2026/Creativity from Boredom\|Creativity from Boredom]]
@@ -25,7 +26,6 @@ Very much a work in progress, even into 2026 now, and there are a lot of holes t
 - [[output/write/2025/Knitting and Making\|Knitting and Making]]
 - [[output/write/2025/Self and Identity\|Self and Identity]]
 - [[output/write/2025/The Autumn Arrives\|The Autumn Arrives]]
-- [[output/write/2025/Wearing My Life\|Wearing My Life]]
 
 { .block-language-dataview}
 ## Time to Re-Re-Re-Restart the Process
