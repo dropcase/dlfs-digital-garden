@@ -1,5 +1,5 @@
 ---
-{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"dg-publish":true,"created":"2026-06-16 11:49:02","updated":"2026-06-16T14:18:55-04:00","permalink":"/output/write/2026/movement-of-the-self/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"created":"2026-06-16 11:49:02","updated":"2026-06-16T14:18:55-04:00"}}
+{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"dg-publish":true,"created":"2026-06-16 11:49:02","updated":"2026-06-16T14:26:18-04:00","permalink":"/output/write/2026/movement-of-the-self/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"created":"2026-06-16 11:49:02","updated":"2026-06-16T14:26:18-04:00"}}
 ---
 
 ## Motion is Lotion
@@ -17,6 +17,6 @@ Not a fan of Meta/IG's tracking but trying to make it easy for people to see thi
 
 It's also a great reminder to move, even a little. Anything more than you're doing now is an improvement. Another great account is [John Noel - YouTube](https://www.youtube.com/@coachjohnnoel). He makes movement more accessible and his approach is relief from the fitness influencer "just do" take. Unfortunately YouTube Shorts isn't easy to embed so I'll just link an example here:
 
-[#fitness - YouTube](https://www.youtube.com/shorts/_HarROy0HY4)
+[John Noel - #fitness - YouTube](https://www.youtube.com/shorts/_HarROy0HY4)
 
 I've been relating more to movement and flexibility over lifting or going to the gym. Finding ways to keep from waking up sore or stiff is very welcome.
