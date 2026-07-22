@@ -1,5 +1,5 @@
 ---
-{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"dg-publish":true,"created":"2026-06-16 11:49:02","updated":"2026-06-16T14:26:18-04:00","permalink":"/output/write/2026/movement-of-the-self/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"created":"2026-06-16 11:49:02","updated":"2026-06-16T14:26:18-04:00"}}
+{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"dg-publish":true,"created":"2026-06-16 11:49:02","updated":"2026-07-22T16:05:22-04:00","permalink":"/output/write/2026/movement-of-the-self/","dgPassFrontmatter":true,"noteIcon":"3","dg-note-properties":{"title":"Movement of the Self","description":"Moving locations is one thing, moving your own body can be a whole other process","date":"2026-06-16","tags":["exercise","activity"],"created":"2026-06-16 11:49:02","updated":"2026-07-22T16:05:22-04:00"}}
 ---
 
 ## Motion is Lotion
